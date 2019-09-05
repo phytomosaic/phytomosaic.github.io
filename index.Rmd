@@ -1,31 +1,35 @@
 ---
-title: "About"
+title: "*** About ***"
 ---
-\  
-\  
+<div style="margin-bottom:50px;"></div>
 
 <img src="images/rjs.png" style="height:250px; border:0; margin-right: 10px; margin-left: 10px" align="right">
 
-<blockquote>
-Robert J Smith, PhD  
+# Robert J Smith, PhD 
 Postdoctoral Research Ecologist  
 Dept of Botany and Plant Pathology  
 Oregon State University  
-2082 Cordley Hall, Corvallis, OR 97331-2902 USA  
-<li>[email](smithr2@oregonstate.edu)  
-<li>[Google Scholar](http://scholar.google.com/citations?user=YkwN1lAAAAAJ)  
-<li>[ORCID](http://orcid.org/0000-0001-5085-634X)  
-<li>[Github](https://github.com/phytomosaic/)  
-</blockquote>
+2082 Cordley Hall  
+Corvallis, OR 97331-2902 USA  
+\  
+
+[`r icon::fa("paper-plane", size=2)` Email](smithr2@oregonstate.edu){target="_blank"}
+
+[`r icon::ai("google-scholar", size=2)` Google Scholar ](http://scholar.google.com/citations?user=YkwN1lAAAAAJ){target="_blank"}
+
+[`r icon::ai("orcid", size=2)` ORCID](http://orcid.org/0000-0001-5085-634X){target="_blank"}
+
+[`r icon::fa("github", size=2)` Github ](https://github.com/phytomosaic/){target="_blank"}
+  
 \  
 \  
 
 # Research themes
 
-- Human–climate–vegetation interactions
-- Biogeography
-- Computational ecology
-- Lichen and bryophyte ecology
+- Human–climate–vegetation interactions  
+- Biogeography  
+- Computational ecology  
+- Lichen and bryophyte ecology  
 \  
 
 # Education
@@ -72,9 +76,6 @@ Smith, R.J., and A.N. Gray. 2019. Combining potentially incompatible community d
 
 <p style="padding-left:10%; text-indent:-10%;">
 Smith, R.J., P.R. Nelson, S. Jovan, P.J. Hanson, and B. McCune. 2018. Novel climates reverse carbon uptake of atmospherically-dependent epiphytes: climatic constraints on the iconic boreal forest lichen *Evernia mesomorpha*. *American Journal of Botany* 105: 266–274. doi:10.1002/ajb2.1022</p>
-
-<p style="padding-left:10%; text-indent:-10%;">
-Smith, R.J., S. Jovan, A.N. Gray, and B. McCune. 2017. Sensitivity of carbon stores in boreal forest moss mats: effects of vegetation, topography and climate. *Plant and Soil* 421(1): 31–42. doi:10.1007/s11104-017-3411-x</p>
 
 <p style="padding-left:10%; text-indent:-10%;">
 Smith, R.J. 2017. Solutions for loss of information in high-beta-diversity community data. *Methods in Ecology and Evolution* 8(1): 68–74. doi:10.1111/2041-210X.12652</p>
