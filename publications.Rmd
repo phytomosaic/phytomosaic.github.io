@@ -1,0 +1,67 @@
+---
+    title: "Publications"
+---
+\  
+
+# Peer-Reviewed Publications
+
+1.	Smith, R.J., S. Jovan, and B. McCune. 2019. Climatic niche limits and community-level vulnerability of obligate symbioses. *Journal of Biogeography*. <span style="color:red">Accepted</span >.
+1.	Smith, R.J., and A.N. Gray. 2019. Combining potentially incompatible community datasets when harmonizing forest inventories in subarctic Alaska. *Journal of Vegetation Science* 30(1): 18–29. doi:10.1111/jvs.12694
+1.	Smith, R.J., P.R. Nelson, S. Jovan, P.J. Hanson, and B. McCune. 2018. Novel climates reverse carbon uptake of atmospherically-dependent epiphytes: climatic constraints on the iconic boreal forest lichen *Evernia mesomorpha*. *American Journal of Botany* 105: 266–274. doi:10.1002/ajb2.1022
+1.	Smith, R.J., S. Jovan, A.N. Gray, and B. McCune. 2017. Sensitivity of carbon stores in boreal forest moss mats: effects of vegetation, topography and climate. *Plant and Soil* 421(1): 31–42. doi:10.1007/s11104-017-3411-x
+1.	Smith, R.J. 2017. Solutions for loss of information in high-beta-diversity community data. *Methods in Ecology and Evolution* 8(1): 68–74. doi:10.1111/2041-210X.12652
+1.	Calabria, L.M., K. Petersen, S.T. Hamman, and R.J. Smith. 2016. Prescribed fire decreases lichen and bryophyte biomass and alters functional group composition in Pacific Northwest prairies. *Northwest Science* 90(4): 470–483. doi:10.3955/046.090.0407.
+1.	Smith, R.J., J.C. Benavides, S. Jovan, M. Amacher, and B. McCune. 2015. A rapid method for landscape assessment of carbon storage and ecosystem function in moss and lichen ground layers. *The Bryologist* 118(1): 32–45. doi:10.1639/0007-2745-118.1.032
+1.	Smith, R.J., and J.H. Rausch. 2015. Bryophytes and lichens from Malheur National Forest, Blue Mountains of eastern Oregon. *Evansia* 32(2): 78–96. doi:10.1639/079.032.0201.
+1.	Rosso, A., P. Neitlich, and R.J. Smith. 2014.  Non-destructive lichen biomass estimation in northwestern Alaska: a comparison of methods. *PLoS ONE* 9(7): e103739. doi:10.1371/journal.pone.0103739.
+1.	Smith, R.J., and L.R. Stark. 2014. Habitat vs. dispersal constraints on bryophyte diversity in the Mojave Desert, USA. *Journal of Arid Environments* 102: 76–81. doi:10.1016/j.jaridenv.2013.11.011.
+1.	Smith, R.J., S.R. Abella, and L.R. Stark. 2014. Post-fire recovery of desert mosses: effects of fires and soil-banks. *Journal of Vegetation Science* 25: 447–456. doi:10.1111/jvs.12094
+1.	Smith, R.J. 2013. Cryptic diversity in bryophyte soil-banks along a desert elevational gradient. *Lindbergia* 36: 1–8.
+1.	Smith, R.J. et al. 2012. Rare inland reindeer lichens at Mima Mounds in southwest Washington State. *North American Fungi* 7(3): 1–25. doi:10.2509/naf2012.007.003
+
+# Reports and Other Publications
+
+1.	Pattison, R., H.E. Andersen, A.N. Gray, B. Schulz, R.J. Smith, and S. Jovan. 2018. Forests of the Tanana Valley State Forest and Tetlin National Wildlife Refuge, Alaska: Results of 2014 Pilot Inventory. PNW-GTR-967. USDA Forest Service, PNW Research Station, Portland, OR. 80p.
+1.	Smith, R.J., S. Jovan and B. McCune. 2017. Lichen Communities as Climate Indicators in the U.S. Pacific States. PNW-GTR-952. USDA Forest Service, PNW Research Station, Portland, OR. 44p.
+1.	Smith, R.J. 2017. Realized and Potential Climate Responses of Lichen and Bryophyte Communities in a National Forest Inventory. PhD dissertation. Oregon State University, Corvallis, OR. 135p.
+1.	Smith, R.J., S. Jovan, and B. McCune. 2017. Lichen responses to experimental temperature and CO~2~ enhancement: implications for climate change monitoring. Pages 163–168 in: Potter, K., and B. Conkling, eds. Forest Health Monitoring: National Status, Trends, and Analysis 2016. GTR-SRS-222. USDA Forest Service, Southern Research Station, Asheville, NC.
+1.	Heath, L.S., S.M. Anderson, M.R. Emery, J.A. Hicke, J. Littell, A. Lucier, J.G. Masek, D.L. Peterson, R. Pouyat, K.M. Potter, G. Robertson, J. Sperry, A. Bytnerowicz, S. Jovan, M.H. Mockrin, R. Musselman, B.K. Schulz, R.J. Smith, and S.I. Stewart. 2015. Indicators of Climate Impacts for Forests: Recommendations for the US National Climate Assessment Indicators System. GTR-NRS-155. USDA Forest Service, Northern Research Station, Newtown Square, PA. 143p.
+1.	Smith, R.J., S. Jovan and B. McCune. 2015. Evaluating carbon stores at the earth–atmosphere interface: moss and lichen mats of subarctic Alaska. Page 55 in: Stanton, S., and G. A. Christensen. 2015. Pushing Boundaries: New Directions in Inventory Techniques \& Applications. GTR-PNW-931. USDA Forest Service, PNW Research Station, Portland, OR.
+1.	Smith, R.J., S. Jovan and B. McCune. 2014. Ubiquitous moss and lichen mats promote forest health. Pages 68–69 in: Graham, E., and T. Huette, eds. Forest Health Conditions in Alaska 2013: A Forest Health Protection Report. R10-PR-035. USDA Forest Service, Region 10, Anchorage, AK.
+1.	Smith, R.J. 2013. Dispersal Ecology of Desert Mosses Along Gradients of Elevation, Wildfire Disturbance and Local Niche. MSc thesis. Univ. of Nevada, Las Vegas. 90p.
+
+# Publications Submitted
+
+1.	Smith, R.J., and A.N. Gray. 2019. Why measure Wilderness? Socioecological benefits of monitoring protected areas. *Frontiers in Ecology and Environment*. In review.  
+
+# Invited Oral Presentations
+
+1.	Dimensions of mentoring in international STEM disciplines. Office of International Programs, Global Services, Washington State University. 20 Apr 2019.
+1.	*Keynote*: Conceptual progress in lichen ecology through research coordination networks.  American Bryological and Lichenological Society Annual Meeting, Niwot Ridge, Colorado. 14 Aug 2018.
+
+# Contributed Oral Presentations
+
+1.	Global biomass of ground-dwelling lichens and mosses. Northwest Scientific Assoc., Lewiston, ID. 27 Mar 2019.
+1.	Harmonizing forest inventories in interior Alaska: resolving ecological vs sampling differences. International Association for Vegetation Science, Bozeman, MT. 27 Jul 2018.
+1.	Climatic vulnerability of forest lichen communities in North America. USFS Forest Inventory and Analysis Stakeholder Symposium, Park City, UT. 23 Oct 2017.
+1.	An interactive web tool to assess climate vulnerability of forest lichen communities. Ecological Society of America, Portland, OR. 8 Aug 2017.
+1.	Vulnerability of forest lichen communities to species loss under climatic warming. Northwest Scientific Assoc., Ashland, OR. 31 Mar 2017.
+1.	Overview of the FIA Ground Layer Indicator. (S. Jovan lead author, with R.J. Smith, A. Gray and B. McCune). Interior Alaska Forest Inventory Collaborators Meeting, Fairbanks, AK. 1 Dec 2016.
+1.	Decline of boreal lichens over one year of whole-ecosystem warming. Oak Ridge National Laboratory, SPRUCE Project Meeting. St. Paul, MN. 1 Nov 2016.
+1.	Twenty-five years of climate indication in lichen communities from Alaska to California. Botany Conference: American Bryological and Lichenological Society, Savannah, GA. 1 Aug 2016.
+1.	Local and regional climate responses of epiphytic lichen communities in the US Midwest. Oak Ridge National Laboratory, SPRUCE Experiment All-Hands Meeting. St. Paul, MN. 10 May 2016.
+1.	Twenty-five years of climate indication in lichen communities from Alaska to California. Northwest Scientific Assoc., Bend, OR. 25 Mar 2016.
+1.	Evaluating carbon stores at the earth-atmosphere interface: moss and lichen mats of subarctic Alaska. Forest Inventory and Analysis Science Symposium, Portland, OR, USA. 9 Dec 2015.
+1.	A method for assessing carbon storage and functional importance in moss and lichen ground layers. Northwest Scientific Assoc., Missoula, MT. 28 Mar 2014.
+1.	Assessing carbon storage and functional importance in moss/lichen ground layers. Interior Alaska Inventory Conference, Anchorage, AK.  6 Feb 2014.
+1.	Post-fire recovery of desert moss communities. SoBeFree Annual Meeting, Julian, CA. 28 Mar 2013.
+1.	Dispersal and post-fire recovery of desert mosses. NV Native Plant Society. Henderson, NV. 4 Feb 2013.
+1.	Ecology of rare inland reindeer lichens. Northwest Scientific Assoc., Boise, ID. 30 Mar 2012.
+
+# Contributed Poster Presentations
+
+1.	Smith, R.J., S. Jovan, A.N. Gray, and B. McCune. Three-dimensional carbon storage in interior Alaska's moss and lichen mats. FIA Alaska Stakeholder Meeting, Anchorage, AK.  1 Dec 2016.
+1.	Smith, R.J., P.R. Nelson, S. Jovan, and B. McCune. Climate change effects on lichen communities and growth. Forest Health Monitoring Program Workgroup Meeting. 24 Mar 2016.
+1.	Smith, R.J., S. Jovan, and B. McCune. Carbon storage and functional importance in moss/lichen ground layers. Forest Health Monitoring Program Workgroup, Jacksonville, FL. 25–27 Mar 2014.
+1.	Smith, R.J. Mining for mosses: Metacommunity dynamics at Red Rock Canyon, Nevada.  Ecological Society of America, Portland, OR. 10 Aug 2012.
+

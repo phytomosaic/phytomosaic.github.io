@@ -1,0 +1,93 @@
+---
+title: "About"
+---
+\  
+\  
+
+<img src="images/rjs.png" style="height:250px; border:0; margin-right: 10px; margin-left: 10px" align="right">
+
+<blockquote>
+Robert J Smith, PhD  
+Postdoctoral Research Ecologist  
+Dept of Botany and Plant Pathology  
+Oregon State University  
+2082 Cordley Hall, Corvallis, OR 97331-2902 USA  
+<li>[email](smithr2@oregonstate.edu)  
+<li>[Google Scholar](http://scholar.google.com/citations?user=YkwN1lAAAAAJ)  
+<li>[ORCID](http://orcid.org/0000-0001-5085-634X)  
+<li>[Github](https://github.com/phytomosaic/)  
+</blockquote>
+\  
+\  
+
+# Research themes
+
+- Human–climate–vegetation interactions
+- Biogeography
+- Computational ecology
+- Lichen and bryophyte ecology
+\  
+
+# Education
+
+<p style="padding-left:10%; text-indent:-10%;">
+2017 &nbsp;&nbsp;&nbsp;&nbsp; Ph.D. &nbsp;&nbsp; Botany and Plant Pathology. Oregon State University.  </p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+2013  &nbsp;&nbsp;&nbsp;&nbsp; M.S. &nbsp;&nbsp; Ecology and Evolutionary Biology. University of Nevada Las Vegas.  </p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+2011  &nbsp;&nbsp;&nbsp;&nbsp; B.S. &nbsp;&nbsp; Botany and Plant Pathology. Oregon State University.  
+</p>
+\  
+
+# Professional appointments
+
+<p style="padding-left:10%; text-indent:-10%;">
+2017---*present* &nbsp;&nbsp; Postdoctoral Research Ecologist, Oregon State University \& USDA Forest Service PNW Research Station</p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+2014---2017 &nbsp;&nbsp; Graduate Research Assistant (PhD), Oregon State University</p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+2013---2014 &nbsp;&nbsp; Faculty Research Assistant, Oregon State University</p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+2011---2013 &nbsp;&nbsp; Graduate Research Associate (MSc), University of Nevada, Las Vegas</p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+2010---2014 &nbsp;&nbsp; Biological Science Technician, USDA Forest Service</p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+2007 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Biological Science Technician, US Geological Survey</p>
+\  
+
+# Selected publications
+
+<p style="padding-left:10%; text-indent:-10%;">
+Smith, R.J., S. Jovan, and B. McCune. 2019. Climatic niche limits and community-level vulnerability of obligate symbioses. *Journal of Biogeography*. <span style="color:red">Accepted</span >.</p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+Smith, R.J., and A.N. Gray. 2019. Combining potentially incompatible community datasets when harmonizing forest inventories in subarctic Alaska. *Journal of Vegetation Science* 30(1): 18–29. doi:10.1111/jvs.12694</p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+Smith, R.J., P.R. Nelson, S. Jovan, P.J. Hanson, and B. McCune. 2018. Novel climates reverse carbon uptake of atmospherically-dependent epiphytes: climatic constraints on the iconic boreal forest lichen *Evernia mesomorpha*. *American Journal of Botany* 105: 266–274. doi:10.1002/ajb2.1022</p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+Smith, R.J., S. Jovan, A.N. Gray, and B. McCune. 2017. Sensitivity of carbon stores in boreal forest moss mats: effects of vegetation, topography and climate. *Plant and Soil* 421(1): 31–42. doi:10.1007/s11104-017-3411-x</p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+Smith, R.J. 2017. Solutions for loss of information in high-beta-diversity community data. *Methods in Ecology and Evolution* 8(1): 68–74. doi:10.1111/2041-210X.12652</p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+Smith, R.J., S. Jovan and B. McCune. 2017. *Lichen Communities as Climate Indicators in the U.S. Pacific States*. PNW-GTR-952. USDA Forest Service, PNW Research Station, Portland, OR.</p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+Smith, R.J., S.R. Abella, and L.R. Stark. 2014. Post-fire recovery of desert mosses: effects of fires and soil-banks. *Journal of Vegetation Science* 25: 447–456. doi:10.1111/jvs.12094</p>
+
+\  
+
+$$F_{X}(x) = P(X \le x)$$
+\  
+
+Feel free to contact me at smithr2@oregonstate.edu for further information.

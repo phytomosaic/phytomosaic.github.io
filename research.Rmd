@@ -1,0 +1,31 @@
+---
+     title: "Research"
+     output:
+       html_document:
+         theme: sandstone
+         css: style.css
+         toc: false
+---
+\  
+
+# Research themes
+
+## Human--climate--vegetation interactions
+
+Here.
+
+## Biogeography
+
+Here.
+
+## Computational ecology
+
+Here.
+
+## Lichen and bryophyte ecology
+
+Here.
+
+## Links to external resources
+
+[Resources](./resources.html) here.

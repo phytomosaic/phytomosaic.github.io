@@ -1,0 +1,42 @@
+/* whole document: */
+body{
+  font-size: 18px;
+}
+/* headers: */
+h1,h2,h3,h4,h5,h6{
+  font-size: 120%;
+  line-height: 2em;
+}
+/* titles should be negated */
+h1.title {
+  font-size: 0;
+  line-height: 0;
+}
+/* unvisited link */
+a:link {
+  color: red;
+}
+/* visited link */
+a:visited {
+  color: red;
+}
+/* mouse over link */
+a:hover {
+  color: orange;
+}
+/* blockquotes */
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 105%;
+    border: 0;
+    /* border-left: 10px solid #eee; */
+}
+/* navbar items */
+.navbar .nav>li>a {
+    font-size: 140%;
+}
+.navbar-default .navbar-brand {
+    font-size: 100%;
+}
+

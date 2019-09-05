@@ -1,0 +1,29 @@
+name: "Rob Smith -- Vegetation Ecology"
+output_dir: "."
+navbar:
+  title: "Rob Smith -- Vegetation Ecology"
+  left:
+    - text: "About"
+      icon: fa-star
+      href: index.html
+    - text: "Publications"
+      icon: fa-edit
+      href: publications.html
+    - text: "Teaching"
+      icon: fa-chalkboard-teacher
+      href: teaching.html
+    - text: "Research"
+      icon: fa-seedling
+      href: research.html
+    - text: "Software"
+      icon: fa-file-code
+      href: software.html
+output:
+  html_document:
+    theme: sandstone
+    css: style.css
+    toc: true
+    toc_float: true
+    toc_collapsed: true
+    toc_depth: 2
+    number_sections: false

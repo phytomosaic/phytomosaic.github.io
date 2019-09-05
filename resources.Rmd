@@ -1,0 +1,130 @@
+---
+     title: "Resources"
+     output:
+       html_document:
+         theme: sandstone
+         css: style.css
+         toc: false
+---
+\  
+
+# Resources {.tabset .tabset-fade}
+
+## Colleagues
+
+[Bruce McCune](http://bmccune.weebly.com/)  
+
+[Sarah Jovan](http://www.fs.fed.us/research/people/profile.php?alias=sjovan)
+
+[Lloyd Stark](http://www.researchgate.net/profile/Lloyd_Stark/)
+
+[Scott Abella](http://scholar.google.com/citations?user=zHtTLHUAAAAJ&amp;hl=en)   
+
+[Peter Neitlich](http://www.researchgate.net/profile/Peter_Neitlich/)
+
+[Lalita Calabria](http://evergreen.edu/faculty/instructor/calabril)
+
+[Peter Nelson](http://peterrnelson.weebly.com/)
+
+[Daniel Stanton](http://www.dstantonlab.com/publications.html)
+
+[Reinaldo Vargas-Castillo](https://www.researchgate.net/profile/Reinaldo_Vargas-Castillo)
+
+
+## Cryptogam literature
+
+[Lichen literature: world](http://nhm2.uio.no/botanisk/lav/RLL/RLL.HTM)
+
+[Lichen literature: US Pacific Northwest](http://northwest-lichenologists.wildapricot.org/page-1854191)    
+
+[Lichen literature: N America by genus](http://www2.huh.harvard.edu/collections/lichens/guide/guidetoliterature.html#letterA)
+
+[Lichen checklist: N America](http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm)
+
+[Lichen checklist: world](https://web.archive.org/20070207120321/http://www.biologie.uni-hamburg.de:80/checklists/portalpages/world_l.htm)
+
+[Bryophytes and lichens: rare species profiles](http://www.fs.fed.us/r6/sfpnw/issssp/planning-documents/species-guides.shtml)
+
+[Bryophyte names and authorities (single taxon)](http://www.tropicos.org/)
+
+[Bryophyte names and authorities (batch)](http://www.tropicos.org/NameMatching.aspx)
+
+
+## Lichen images
+
+[US Pacific Northwest (microlichens)](https://oregondigital.org/sets/lichens-pnw)
+
+[US Pacific Northwest and Alaska](http://northwest-lichenologists.wildapricot.org/page-1816539)
+
+[US Pacific Northwest and Alaska](https://www.flickr.com/photos/29750062@N06/)
+
+[N America](http://www.waysofenlichenment.net/lichens/gallery)
+
+[N America](http://www.sharnoffphotos.com/lichens/lichens_home_index.html)
+
+[N America (microlichens on rock)](http://timwheelerphotography.com/?page_id=6)
+
+[N Europe and United Kingdom](http://www.lichens.lastdragon.org/indexP.html)
+
+[N Europe and United Kingdom](http://www.britishlichens.co.uk/speciesgallery.html)
+
+[UK and Ireland](http://fungi.myspecies.info/content/list-lichens)
+
+[Finland](http://www.helsinki.fi/pinkka/english/finnishflora/lichens.htm)
+
+[Sweden](http://www.stridvall.se/lichens/gallery/albums.php)
+
+[Norway](http://nhm2.uio.no/botanisk/lav/Photo_Gallery/)
+
+[Netherlands](http://www.verspreidingsatlas.nl/korstmossen)
+
+[Italy](http://dbiodbs.univ.trieste.it/italic/italic03)
+
+[Belgium/Luxembourg/France](http://www.lichenology.info/cgi-bin/baseportal.pl?htx=atlas)
+
+
+## Bryophyte images
+
+[N America](http://bryophytes.plant.siu.edu/Images.html)
+  
+[N America: Flora](http://www.mobot.org/plantscience/bfna/TREAtments.htm)
+
+[US California](https://www.csun.edu/~hcbio028/)
+
+[US California: Flora](http://ucjeps.berkeley.edu/CA_moss_eflora/)
+
+[US Pacific Northwest: Hornworts](http://fernzenmosses.com/hornworts_of_oregon/allhorns.htm)
+
+[US Pacific Northwest: Genus _Racomitrium_](http://fernzenmosses.com/racomitrium_of_oregon/ARACKEY.htm)
+
+[Germany](http://www.bildatlas-moose.de/)
+
+[Germany](http://www.korseby.net/outer/flora/bryophyta/)
+
+[Netherlands](http://www.verspreidingsatlas.nl/mossen)
+
+[Switzerland](http://www.swissbryophytes.ch/content/iframe/image_browser.php)
+
+[Switzerland](http://www.nism.uzh.ch/map/map_de.php)
+
+[W Europe](http://www.flickr.com/photos/bryopix_flickr/sets/)
+
+[United Kingdom](http://rbg-web2.rbge.org.uk/bbs/Activities/BBSFGspac.htm)
+
+[United Kingdom: incl. hepatics](http://www.cisfbr.org.uk/Bryo/Cornish_Bryophytes_Liverworts.html)
+
+[Czech Republic](http://www.bryo.cz/index.php?p=mechorosty_foto&amp;site=en)
+
+[Russia](http://arctoa.ru/ru/photo/photo.php)
+
+[Russia: Flora](http://arctoa.ru/Flora/taxonomy-ru/taxonomy-ru.php)
+
+[Mexico](http://filogenetica.org/BriofitasdeMexico/)
+
+[China: Flora](http://www.tropicos.org/projectwebportal.aspx?pagename=MossChecklist&amp;projectid=22)
+
+[World: Genus _Grimmia_](http://www.grimmiasoftheworld.com/world-checklist.html)
+
+[Australia](http://www.anbg.gov.au/abrs/Mosses_online/)  
+
+

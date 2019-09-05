@@ -1,0 +1,32 @@
+---
+     title: "Software"
+     output:
+       html_document:
+         theme: sandstone
+         css: style.css
+         toc: false
+---
+\  
+
+# Software Development
+
+1.   Smith, R.J. 2019. **grlyr**: Interactive App for Ground Layer Estimation. https://ecol.shinyapps.io/grlyr/ 
+
+1.   Smith, R.J. 2019. **vuln**: Niche-based Vulnerability of Species and Communities. R package version 0.0.04-2019-08-06. https://github.com/phytomosaic/vuln 
+
+1.	Smith, R.J., P.R. Nelson, R. Vargas-Castillo, D.E. Stanton. 2018. **foggy**: Species and Trait Responses to Fog Gradients. R package version 0.0.4-2018.  https://github.com/phytomosaic/foggy 
+
+1.	Smith, R.J. 2018. **fitNMDS**: Measures of Fit for Bootstrapped and Reciprocal NMDS. R package version 0.1.4-2018.  https://github.com/phytomosaic/fitNMDS 
+
+1.	Smith, R.J. 2017. Forest Lichen Vulnerability Assessment. https://ecol.shinyapps.io/vuln/ 
+
+1.	Smith, R.J. 2016. **ngnn**: Multivariate Prediction of Community Composition. R package version 0.1-2016. https://github.com/phytomosaic/ngnn 
+
+1.	Smith, R.J. 2015. **ecole**: School of Ecology Package for Teaching Ecological Tasks, Algorithms and Model Fitting. R package version 0.6-2018. https://github.com/phytomosaic/ecole 
+
+1. Multivariate community analysis tutorial [[R gist](https://gist.github.com/phytomosaic/0a93ab96e49ba9f11a0cf59b8be4cf07)]  
+
+\  
+\  
+
+Other development projects on [Github](https://github.com/phytomosaic/)  
