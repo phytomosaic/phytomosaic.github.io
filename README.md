@@ -1,2 +1,2 @@
-# https://phytomosaic.github.io
+# README
 Rob Smith's professional website: https://phytomosaic.github.io/
