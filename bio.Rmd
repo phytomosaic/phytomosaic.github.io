@@ -1,0 +1,70 @@
+---
+     title: "Bio"
+     output:
+       html_document:
+         theme: sandstone
+         css: style.css
+         toc: false
+---
+
+I am a Postdoctoral Research Ecologist in the [Dept of Botany and Plant Pathology](https://bpp.oregonstate.edu){target="_blank"} at Oregon State University.  Previous non-traditional experiences in forestry, poetry, and mountain climbing led to inquiry about vegetation growth and persistence.  
+
+With colleagues and students, I work at the broad intersection of forest ecology, biogeography and high-dimensional statistics.  Our goal is to forecast plant and lichen responses to pressing global changes.  Through distributed experiments, open-source software development and large-scale national forest inventories, we ask: *How will global changes to disturbance and climatic regimes alter the distribution, persistence and co-occurrence of species*?  
+\  
+
+# Research themes
+******  
+
+- Human–climate–vegetation interactions  
+- Biogeography  
+- Computational ecology  
+- Lichen and bryophyte ecology  
+\  
+
+# Education
+******  
+
+<p style="padding-left:10%; text-indent:-10%;">
+2017 &nbsp;&nbsp;&nbsp;&nbsp; Ph.D. &nbsp;&nbsp; Botany and Plant Pathology. Oregon State University.  </p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+2013  &nbsp;&nbsp;&nbsp;&nbsp; M.S. &nbsp;&nbsp; Ecology and Evolutionary Biology. Univ of Nevada Las Vegas.  </p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+2011  &nbsp;&nbsp;&nbsp;&nbsp; B.S. &nbsp;&nbsp; Botany and Plant Pathology. Oregon State University.  
+</p>
+\  
+
+# Professional appointments
+******  
+
+<p style="padding-left:10%; text-indent:-10%;">
+2017---*present* &nbsp;&nbsp; Postdoctoral Research Ecologist, Oregon State University \& USDA Forest Service PNW Research Station</p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+2019 &nbsp;&nbsp; Instructor, Oregon State University</p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+2014---2017 &nbsp;&nbsp; Graduate Research Assistant (PhD), Oregon State University</p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+2013---2014 &nbsp;&nbsp; Faculty Research Assistant, Oregon State University</p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+2011---2013 &nbsp;&nbsp; Graduate Research Associate (MSc), University of Nevada, Las Vegas</p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+2010---2014 &nbsp;&nbsp; Biological Science Technician, USDA Forest Service</p>
+
+<p style="padding-left:10%; text-indent:-10%;">
+2007 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Biological Science Technician, US Geological Survey</p>
+
+<div style="margin-bottom:50px;"></div>\  
+
+[`r icon::fa("paper-plane", size=2)` Email](smithr2@oregonstate.edu){target="_blank"}
+
+[`r icon::ai("google-scholar", size=2)` Google Scholar ](http://scholar.google.com/citations?user=YkwN1lAAAAAJ){target="_blank"}
+
+[`r icon::ai("orcid", size=2)` ORCID](http://orcid.org/0000-0001-5085-634X){target="_blank"}
+
+[`r icon::fa("github", size=2)` Github ](https://github.com/phytomosaic/){target="_blank"}
