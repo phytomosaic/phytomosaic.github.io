@@ -1,11 +1,14 @@
 ---
-title: "*** About ***"
+     title: "*** About ***"
+     output:
+       html_document:
+         theme: sandstone
+         css: style.css
+         toc: false
 ---
-<div style="margin-bottom:50px;"></div>
+<img src="images/rjs.png" style="border:0; margin-right: 10px; margin-left: 10px" align="right" width="40%" alt="">
 
-<img src="images/rjs.png" style="height:250px; border:0; margin-right: 10px; margin-left: 10px" align="right">
-
-# Robert J Smith, PhD 
+<span style='font-size: 1.2em;'>Robert J Smith, PhD</span>  
 Postdoctoral Research Ecologist  
 Dept of Botany and Plant Pathology  
 Oregon State University  
@@ -20,11 +23,12 @@ Corvallis, OR 97331-2902 USA
 [`r icon::ai("orcid", size=2)` ORCID](http://orcid.org/0000-0001-5085-634X){target="_blank"}
 
 [`r icon::fa("github", size=2)` Github ](https://github.com/phytomosaic/){target="_blank"}
-  
+
 \  
 \  
 
 # Research themes
+******  
 
 - Human–climate–vegetation interactions  
 - Biogeography  
@@ -32,44 +36,11 @@ Corvallis, OR 97331-2902 USA
 - Lichen and bryophyte ecology  
 \  
 
-# Education
-
-<p style="padding-left:10%; text-indent:-10%;">
-2017 &nbsp;&nbsp;&nbsp;&nbsp; Ph.D. &nbsp;&nbsp; Botany and Plant Pathology. Oregon State University.  </p>
-
-<p style="padding-left:10%; text-indent:-10%;">
-2013  &nbsp;&nbsp;&nbsp;&nbsp; M.S. &nbsp;&nbsp; Ecology and Evolutionary Biology. University of Nevada Las Vegas.  </p>
-
-<p style="padding-left:10%; text-indent:-10%;">
-2011  &nbsp;&nbsp;&nbsp;&nbsp; B.S. &nbsp;&nbsp; Botany and Plant Pathology. Oregon State University.  
-</p>
-\  
-
-# Professional appointments
-
-<p style="padding-left:10%; text-indent:-10%;">
-2017---*present* &nbsp;&nbsp; Postdoctoral Research Ecologist, Oregon State University \& USDA Forest Service PNW Research Station</p>
-
-<p style="padding-left:10%; text-indent:-10%;">
-2014---2017 &nbsp;&nbsp; Graduate Research Assistant (PhD), Oregon State University</p>
-
-<p style="padding-left:10%; text-indent:-10%;">
-2013---2014 &nbsp;&nbsp; Faculty Research Assistant, Oregon State University</p>
-
-<p style="padding-left:10%; text-indent:-10%;">
-2011---2013 &nbsp;&nbsp; Graduate Research Associate (MSc), University of Nevada, Las Vegas</p>
-
-<p style="padding-left:10%; text-indent:-10%;">
-2010---2014 &nbsp;&nbsp; Biological Science Technician, USDA Forest Service</p>
-
-<p style="padding-left:10%; text-indent:-10%;">
-2007 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Biological Science Technician, US Geological Survey</p>
-\  
-
 # Selected publications
+******  
 
 <p style="padding-left:10%; text-indent:-10%;">
-Smith, R.J., S. Jovan, and B. McCune. 2019. Climatic niche limits and community-level vulnerability of obligate symbioses. *Journal of Biogeography*. <span style="color:red">Accepted</span >.</p>
+Smith, R.J., S. Jovan, and B. McCune. 2019. Climatic niche limits and community-level vulnerability of obligate symbioses. *Journal of Biogeography* xx: yy-zz. doi:10.1111/jbi.13719</p>
 
 <p style="padding-left:10%; text-indent:-10%;">
 Smith, R.J., and A.N. Gray. 2019. Combining potentially incompatible community datasets when harmonizing forest inventories in subarctic Alaska. *Journal of Vegetation Science* 30(1): 18–29. doi:10.1111/jvs.12694</p>
@@ -85,10 +56,25 @@ Smith, R.J., S. Jovan and B. McCune. 2017. *Lichen Communities as Climate Indica
 
 <p style="padding-left:10%; text-indent:-10%;">
 Smith, R.J., S.R. Abella, and L.R. Stark. 2014. Post-fire recovery of desert mosses: effects of fires and soil-banks. *Journal of Vegetation Science* 25: 447–456. doi:10.1111/jvs.12094</p>
+\  
+
+# News
+******  
+
+- Our paper on climate vulnerability has been accepted in *Journal of Biogeography*. Source code [here](https://github.com/phytomosaic/vuln){target="_blank"}.  
+
+- Joined [Daniel Stanton](https://cbs.umn.edu/contacts/daniel-stanton-0){target="_blank"} and the [Market Science](https://cbs.umn.edu/market-science/about){target="_blank"} outreach team to share the wonders of lichens with all ages at the Minnesota State Fair.  
+
+- Continued our 6th year of long-term lichen monitoring at the [SPRUCE](https://mnspruce.ornl.gov){target="_blank"} whole-ecosystem warming experiment.  
+
+- [Our paper](doi:10.1002/ajb2.1022){target="_blank"} sharing initial SPRUCE findings is now published in *American Journal of Botany*.  
+
+- New [ELON](https://elonpreview.weebly.com/){target="_blank"} stations continue to be installed throughout the western U.S.  
 
 \  
+
+******  
 
 $$F_{X}(x) = P(X \le x)$$
-\  
 
-Feel free to contact me at smithr2@oregonstate.edu for further information.
+******  

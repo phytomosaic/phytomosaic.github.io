@@ -8,24 +8,36 @@
 ---
 \  
 
-# Research themes
+# Global change biology
+******  
 
-## Human--climate--vegetation interactions
+<div style="display: inline-block;">
+<img src="images/fig_spruce.png" style="border:0; margin-right: 15px; margin-left: 15px;" width="33%" alt="" align="right">
 
-Here.
+How will forest vegetation respond to future climates?  Our team is continuing Year 6 of long-term monitoring at the US-DOE [SPRUCE experiment](https://mnspruce.ornl.gov){target="_blank"}.  Whole-ecosystem warming [caused lichen growth rates to plummet](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1036){target="_blank"} and functional mortality to skyrocket.  Ongoing work is exploring resilience capacity and recovery of function upon return to ambient conditions.
+</div>
 
-## Biogeography
+\  
 
-Here.
+# Biogeography and range constraints
+******  
 
-## Computational ecology
+<img src="images/fig_vulnerability.png" style="border:0; margin-right: 15px; margin-left: 15px;" width="33%" alt="" align="left">
 
-Here.
+How does community-level vulnerability emerge from climatic constraints of single species?  We are developing [statistical indices](https://github.com/phytomosaic/vuln){target="_blank"} that integrate the climatic exposure of any site with the collective sensitivities of species that occur there.  Findings so far challenge the myth of "extremophile" lichens: those in hot, low-latitude sites are frequently close to exceeding the critical thermal limits that signal compositional shifts in forest ecosystems.
 
-## Lichen and bryophyte ecology
+\  
 
-Here.
+# Research Coordination Networks
+******  
 
-## Links to external resources
+<img src="images/fig_bryoria_rainier.jpg" style="border:0; margin-right: 15px; margin-left: 15px;" width="33%" alt="" align="right">
 
-[Resources](./resources.html) here.
+As PI and founder of [ELON: the Epiphytic Lichen Observation Network](https://elonpreview.weebly.com/){target="_blank"}, I work with a diverse international team to measure "near real-time" community changes using distributed climate sensors and remote cameras.  ELON's primary goal is to forecast climate-driven demographic and community shifts based on daily observations of sensitive epiphytes and climate, replicated worldwide.  Ongoing work will assess the relative roles of plasticity, photobiont switching and adaptation in shaping species' climatic responses and biogeographic range limits.
+
+\  
+
+# Links to external resources
+******  
+
+[Resources](./resources.html)

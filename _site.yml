@@ -1,11 +1,7 @@
-name: "Rob Smith -- Vegetation Ecology"
-output_dir: "."
+name: "Rob Smith - Vegetation Ecology"
 navbar:
-  title: "Rob Smith -- Vegetation Ecology"
+  title: "Rob Smith"
   left:
-    - text: "About"
-      icon: fa-star
-      href: index.html
     - text: "Publications"
       icon: fa-edit
       href: publications.html
@@ -16,8 +12,11 @@ navbar:
       icon: fa-seedling
       href: research.html
     - text: "Software"
-      icon: fa-file-code
+      icon: fa-code-branch
       href: software.html
+    - text: "Bio"
+      icon: fa-star
+      href: bio.html
 output:
   html_document:
     theme: sandstone

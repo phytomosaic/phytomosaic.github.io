@@ -1,11 +1,11 @@
 ---
     title: "Publications"
 ---
-\  
 
 # Peer-Reviewed Publications
+******  
 
-1.	Smith, R.J., S. Jovan, and B. McCune. 2019. Climatic niche limits and community-level vulnerability of obligate symbioses. *Journal of Biogeography*. <span style="color:red">Accepted</span >.
+1.	Smith, R.J., S. Jovan, and B. McCune. 2019. Climatic niche limits and community-level vulnerability of obligate symbioses. *Journal of Biogeography* xx: yy-zz. doi:10.1111/jbi.13719
 
 1.	Smith, R.J., and A.N. Gray. 2019. Combining potentially incompatible community datasets when harmonizing forest inventories in subarctic Alaska. *Journal of Vegetation Science* 30(1): 18–29. doi:10.1111/jvs.12694
 
@@ -31,8 +31,10 @@
 
 1.	Smith, R.J. et al. 2012. Rare inland reindeer lichens at Mima Mounds in southwest Washington State. *North American Fungi* 7(3): 1–25. doi:10.2509/naf2012.007.003
 
+\  
 
 # Reports and Other Publications
+******  
 
 1.	Pattison, R., H.E. Andersen, A.N. Gray, B. Schulz, R.J. Smith, and S. Jovan. 2018. Forests of the Tanana Valley State Forest and Tetlin National Wildlife Refuge, Alaska: Results of 2014 Pilot Inventory. PNW-GTR-967. USDA Forest Service, PNW Research Station, Portland, OR. 80p.
 
@@ -50,17 +52,26 @@
 
 1.	Smith, R.J. 2013. Dispersal Ecology of Desert Mosses Along Gradients of Elevation, Wildfire Disturbance and Local Niche. MSc thesis. Univ. of Nevada, Las Vegas. 90p.
 
+\  
+
 # Publications Submitted
+******  
 
 1.	Smith, R.J., and A.N. Gray. 2019. Why measure Wilderness? Socioecological benefits of monitoring protected areas. *Frontiers in Ecology and Environment*. In review.  
 
+\  
+
 # Invited Oral Presentations
+******  
 
 1.	Dimensions of mentoring in international STEM disciplines. Office of International Programs, Global Services, Washington State University. 20 Apr 2019.
 
 1.	*Keynote*: Conceptual progress in lichen ecology through research coordination networks.  American Bryological and Lichenological Society Annual Meeting, Niwot Ridge, Colorado. 14 Aug 2018.
 
+\  
+
 # Contributed Oral Presentations
+******  
 
 1.	Global biomass of ground-dwelling lichens and mosses. Northwest Scientific Assoc., Lewiston, ID. 27 Mar 2019.
 
@@ -94,7 +105,10 @@
 
 1.	Ecology of rare inland reindeer lichens. Northwest Scientific Assoc., Boise, ID. 30 Mar 2012.
 
+\  
+
 # Contributed Poster Presentations
+******  
 
 1.	Smith, R.J., S. Jovan, A.N. Gray, and B. McCune. Three-dimensional carbon storage in interior Alaska's moss and lichen mats. FIA Alaska Stakeholder Meeting, Anchorage, AK.  1 Dec 2016.
 
@@ -103,4 +117,3 @@
 1.	Smith, R.J., S. Jovan, and B. McCune. Carbon storage and functional importance in moss/lichen ground layers. Forest Health Monitoring Program Workgroup, Jacksonville, FL. 25–27 Mar 2014.
 
 1.	Smith, R.J. Mining for mosses: Metacommunity dynamics at Red Rock Canyon, Nevada.  Ecological Society of America, Portland, OR. 10 Aug 2012.
-
