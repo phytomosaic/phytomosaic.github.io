@@ -78,3 +78,4 @@ Smith, R.J., S.R. Abella, and L.R. Stark. 2014. Post-fire recovery of desert mos
 $$F_{X}(x) = P(X \le x)$$
 
 ******  
+
