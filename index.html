@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>*** About ***</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/sandstone.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.3.1/css/fontawesome-all.min.css" rel="stylesheet" />
+<link href="site_libs/academicons-1.8.6/css/academicons.min.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 61px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h2 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h3 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h4 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h5 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h6 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Rob Smith</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="publications.html">
+    <span class="fa fa-edit"></span>
+     
+    Publications
+  </a>
+</li>
+<li>
+  <a href="teaching.html">
+    <span class="fa fa-chalkboard-teacher"></span>
+     
+    Teaching
+  </a>
+</li>
+<li>
+  <a href="research.html">
+    <span class="fa fa-seedling"></span>
+     
+    Research
+  </a>
+</li>
+<li>
+  <a href="software.html">
+    <span class="fa fa-code-branch"></span>
+     
+    Software
+  </a>
+</li>
+<li>
+  <a href="bio.html">
+    <span class="fa fa-star"></span>
+     
+    Bio
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">*** About ***</h1>
+
+</div>
+
+
+<p><img src="images/rjs.png" style="border:0; margin-right: 10px; margin-left: 10px" align="right" width="40%" alt=""></p>
+<p><span style="font-size: 1.2em;">Robert J Smith, PhD</span><br />
+Postdoctoral Research Ecologist<br />
+Dept of Botany and Plant Pathology<br />
+Oregon State University<br />
+2082 Cordley Hall<br />
+Corvallis, OR 97331-2902 USA<br />
+ </p>
+<p><a href="smithr2@oregonstate.edu" target="_blank"><i class="fas  fa-paper-plane fa-2x "></i> Email</a></p>
+<p><a href="http://scholar.google.com/citations?user=YkwN1lAAAAAJ" target="_blank"><i class="ai  ai-google-scholar ai-2x "></i> Google Scholar</a></p>
+<p><a href="http://orcid.org/0000-0001-5085-634X" target="_blank"><i class="ai  ai-orcid ai-2x "></i> ORCID</a></p>
+<p><a href="https://github.com/phytomosaic/" target="_blank"><i class="fab  fa-github fa-2x "></i> Github</a></p>
+<p>   </p>
+<div id="research-themes" class="section level1">
+<h1>Research themes</h1>
+<hr />
+<ul>
+<li>Human–climate–vegetation interactions<br />
+</li>
+<li>Biogeography<br />
+</li>
+<li>Computational ecology<br />
+</li>
+<li>Lichen and bryophyte ecology<br />
+ </li>
+</ul>
+</div>
+<div id="selected-publications" class="section level1">
+<h1>Selected publications</h1>
+<hr />
+<p style="padding-left:10%; text-indent:-10%;">
+Smith, R.J., S. Jovan, and B. McCune. 2019. Climatic niche limits and community-level vulnerability of obligate symbioses. <em>Journal of Biogeography</em> xx: yy-zz. <a href="doi:10.1111/jbi.13719" class="uri">doi:10.1111/jbi.13719</a>
+</p>
+<p style="padding-left:10%; text-indent:-10%;">
+Smith, R.J., and A.N. Gray. 2019. Combining potentially incompatible community datasets when harmonizing forest inventories in subarctic Alaska. <em>Journal of Vegetation Science</em> 30(1): 18–29. <a href="doi:10.1111/jvs.12694" class="uri">doi:10.1111/jvs.12694</a>
+</p>
+<p style="padding-left:10%; text-indent:-10%;">
+Smith, R.J., P.R. Nelson, S. Jovan, P.J. Hanson, and B. McCune. 2018. Novel climates reverse carbon uptake of atmospherically-dependent epiphytes: climatic constraints on the iconic boreal forest lichen <em>Evernia mesomorpha</em>. <em>American Journal of Botany</em> 105: 266–274. <a href="doi:10.1002/ajb2.1022" class="uri">doi:10.1002/ajb2.1022</a>
+</p>
+<p style="padding-left:10%; text-indent:-10%;">
+Smith, R.J. 2017. Solutions for loss of information in high-beta-diversity community data. <em>Methods in Ecology and Evolution</em> 8(1): 68–74. <a href="doi:10.1111/2041-210X.12652" class="uri">doi:10.1111/2041-210X.12652</a>
+</p>
+<p style="padding-left:10%; text-indent:-10%;">
+Smith, R.J., S. Jovan and B. McCune. 2017. <em>Lichen Communities as Climate Indicators in the U.S. Pacific States</em>. PNW-GTR-952. USDA Forest Service, PNW Research Station, Portland, OR.
+</p>
+<p style="padding-left:10%; text-indent:-10%;">
+Smith, R.J., S.R. Abella, and L.R. Stark. 2014. Post-fire recovery of desert mosses: effects of fires and soil-banks. <em>Journal of Vegetation Science</em> 25: 447–456. <a href="doi:10.1111/jvs.12094" class="uri">doi:10.1111/jvs.12094</a>
+</p>
+<p> </p>
+</div>
+<div id="news" class="section level1">
+<h1>News</h1>
+<hr />
+<ul>
+<li><p>Our paper on climate vulnerability has been accepted in <em>Journal of Biogeography</em>. Source code <a href="https://github.com/phytomosaic/vuln" target="_blank">here</a>.</p></li>
+<li><p>Joined <a href="https://cbs.umn.edu/contacts/daniel-stanton-0" target="_blank">Daniel Stanton</a> and the <a href="https://cbs.umn.edu/market-science/about" target="_blank">Market Science</a> outreach team to share the wonders of lichens with all ages at the Minnesota State Fair.</p></li>
+<li><p>Continued our 6th year of long-term lichen monitoring at the <a href="https://mnspruce.ornl.gov" target="_blank">SPRUCE</a> whole-ecosystem warming experiment.</p></li>
+<li><p><a href="doi:10.1002/ajb2.1022" target="_blank">Our paper</a> sharing initial SPRUCE findings is now published in <em>American Journal of Botany</em>.</p></li>
+<li><p>New <a href="https://elonpreview.weebly.com/" target="_blank">ELON</a> stations continue to be installed throughout the western U.S.</p></li>
+</ul>
+<p> </p>
+<hr />
+<p><span class="math display">\[F_{X}(x) = P(X \le x)\]</span></p>
+<hr />
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
