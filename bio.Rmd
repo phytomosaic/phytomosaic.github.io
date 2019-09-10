@@ -7,7 +7,7 @@
          toc: false
 ---
 
-I am a Postdoctoral Research Ecologist in the [Dept of Botany and Plant Pathology](https://bpp.oregonstate.edu){target="_blank"} at Oregon State University.  Previous non-traditional experiences in forestry, poetry, and mountain climbing led to inquiry about vegetation growth and persistence.  
+I am a Postdoctoral Research Ecologist in the [Dept of Botany and Plant Pathology](https://bpp.oregonstate.edu){target="_blank"} at Oregon State University.  
 
 With colleagues and students, I work at the broad intersection of forest ecology, biogeography and high-dimensional statistics.  Our goal is to forecast plant and lichen responses to pressing global changes.  Through distributed experiments, open-source software development and large-scale national forest inventories, we ask: *How will global changes to disturbance and climatic regimes alter the distribution, persistence and co-occurrence of species*?  
 \  
@@ -59,7 +59,10 @@ With colleagues and students, I work at the broad intersection of forest ecology
 <p style="padding-left:10%; text-indent:-10%;">
 2007 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Biological Science Technician, US Geological Survey</p>
 
-<div style="margin-bottom:50px;"></div>\  
+\  
+
+# Find me
+******
 
 [`r icon::fa("paper-plane", size=2)` Email](smithr2@oregonstate.edu){target="_blank"}
 
