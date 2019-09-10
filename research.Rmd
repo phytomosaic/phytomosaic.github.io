@@ -31,7 +31,7 @@ How does community-level vulnerability emerge from climatic constraints of singl
 # Research Coordination Networks
 ******  
 
-<img src="images/fig_bryoria_rainier.png" style="border:0; margin-right: 15px; margin-left: 15px;" width="33%" alt="" align="right">
+<img src="images/fig_rainier.png" style="border:0; margin-right: 15px; margin-left: 15px;" width="33%" alt="" align="right">
 
 As PI and founder of [ELON: the Epiphytic Lichen Observation Network](https://elonpreview.weebly.com/){target="_blank"}, I work with a diverse international team to measure "near real-time" community changes using distributed climate sensors and remote cameras.  ELON's primary goal is to forecast climate-driven demographic and community shifts based on daily observations of sensitive epiphytes and climate, replicated worldwide.  Ongoing work will assess the relative roles of plasticity, photobiont switching and adaptation in shaping species' climatic responses and biogeographic range limits.
 
