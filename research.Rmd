@@ -28,6 +28,7 @@ How will forest vegetation respond to future climates?  Our team is continuing Y
 <img src="images/fig_vulnerability.png" style="border:0; margin-right: 15px; margin-left: 15px;" width="33%" alt="" align="left" vspace="4">
 
 How does community-level vulnerability emerge from climatic constraints of single species?  We are developing [statistical indices](https://github.com/phytomosaic/vuln){target="_blank"} that integrate the climatic exposure of any site with the collective sensitivities of species that occur there.  Findings so far challenge the myth of "extremophile" lichens: those in hot, low-latitude sites are frequently close to exceeding the critical thermal limits that signal compositional shifts in forest ecosystems.
+</br>
 </div>
 
 \  
