@@ -44,7 +44,7 @@ _**How will global changes to disturbance and climatic regimes alter the distrib
 2017---*present* &nbsp;&nbsp; Postdoctoral Research Ecologist, Oregon State University \& USDA Forest Service PNW Research Station</p>
 
 <p style="padding-left:10%; text-indent:-10%;">
-2019 &nbsp;&nbsp; Instructor, Oregon State University</p>
+2019  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instructor, Oregon State University</p>
 
 <p style="padding-left:10%; text-indent:-10%;">
 2014---2017 &nbsp;&nbsp; Graduate Research Assistant (PhD), Oregon State University</p>
