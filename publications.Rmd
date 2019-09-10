@@ -2,7 +2,7 @@
     title: "Publications"
 ---
 
-# Peer-Reviewed Publications
+# Peer-Reviewed
 ******  
 
 1.	Smith, R.J., S. Jovan, and B. McCune. 2019. Climatic niche limits and community-level vulnerability of obligate symbioses. *Journal of Biogeography* xx: yy-zz. doi:10.1111/jbi.13719
@@ -33,7 +33,7 @@
 
 \  
 
-# Reports and Other Publications
+# Reports and Other
 ******  
 
 1.	Pattison, R., H.E. Andersen, A.N. Gray, B. Schulz, R.J. Smith, and S. Jovan. 2018. Forests of the Tanana Valley State Forest and Tetlin National Wildlife Refuge, Alaska: Results of 2014 Pilot Inventory. PNW-GTR-967. USDA Forest Service, PNW Research Station, Portland, OR. 80p.
@@ -54,14 +54,14 @@
 
 \  
 
-# Publications Submitted
+# Submitted
 ******  
 
 1.	Smith, R.J., and A.N. Gray. 2019. Why measure Wilderness? Socioecological benefits of monitoring protected areas. *Frontiers in Ecology and Environment*. In review.  
 
 \  
 
-# Invited Oral Presentations
+# Invited Presentations
 ******  
 
 1.	Dimensions of mentoring in international STEM disciplines. Office of International Programs, Global Services, Washington State University. 20 Apr 2019.
@@ -70,7 +70,7 @@
 
 \  
 
-# Contributed Oral Presentations
+# Oral Presentations
 ******  
 
 1.	Global biomass of ground-dwelling lichens and mosses. Northwest Scientific Assoc., Lewiston, ID. 27 Mar 2019.
@@ -107,7 +107,7 @@
 
 \  
 
-# Contributed Poster Presentations
+# Poster Presentations
 ******  
 
 1.	Smith, R.J., S. Jovan, A.N. Gray, and B. McCune. Three-dimensional carbon storage in interior Alaska's moss and lichen mats. FIA Alaska Stakeholder Meeting, Anchorage, AK.  1 Dec 2016.
