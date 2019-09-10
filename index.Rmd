@@ -67,7 +67,7 @@ Smith, R.J., S.R. Abella, and L.R. Stark. 2014. Post-fire recovery of desert mos
 
 - Continued our 6th year of long-term lichen monitoring at the [SPRUCE](https://mnspruce.ornl.gov){target="_blank"} whole-ecosystem warming experiment.  
 
-- [Our paper](doi:10.1002/ajb2.1022){target="_blank"} sharing initial SPRUCE findings is now published in *American Journal of Botany*.  
+- [Our paper](https://doi.org/10.1002/ajb2.1022){target="_blank"} sharing initial SPRUCE findings is now published in *American Journal of Botany*.  
 
 - New [ELON](https://elonpreview.weebly.com/){target="_blank"} stations continue to be installed throughout the western U.S.  
 
