@@ -9,7 +9,9 @@
 
 I am a Postdoctoral Research Ecologist in the [Dept of Botany and Plant Pathology](https://bpp.oregonstate.edu){target="_blank"} at Oregon State University.  
 
-With colleagues and students, I work at the broad intersection of forest ecology, biogeography and high-dimensional statistics.  Our goal is to forecast plant and lichen responses to pressing global changes.  Through distributed experiments, open-source software development and large-scale national forest inventories, we ask: *How will global changes to disturbance and climatic regimes alter the distribution, persistence and co-occurrence of species*?  
+With colleagues and students, I work at the broad intersection of forest ecology, biogeography and high-dimensional statistics.  Our goal is to forecast plant and lichen responses to pressing global changes.  Through distributed experiments, open-source software development and large-scale national forest inventories, we ask:  
+
+_**How will global changes to disturbance and climatic regimes alter the distribution, persistence and co-occurrence of species**_?  
 \  
 
 # Research themes
