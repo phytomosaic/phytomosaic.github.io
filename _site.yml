@@ -27,3 +27,5 @@ output:
     toc_collapsed: true
     toc_depth: 2
     number_sections: false
+    includes:
+      in_header: header.html
