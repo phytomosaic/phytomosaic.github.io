@@ -77,7 +77,7 @@ Smith, R.J., S.R. Abella, and L.R. Stark. 2014. Post-fire recovery of desert mos
 
 ******  
 
-$$F_{X}(x) = P(X \le x)$$
+$$\mathbf{v_{1}} = \frac{\sum_{j=1}^{n} a_{ij} \cdot \phi}{\sum_{j=1}^{n} a_{ij}} \cdot 100$$
 
 ******  
 
