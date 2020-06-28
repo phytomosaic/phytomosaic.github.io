@@ -7,67 +7,35 @@
          toc: false
 ---
 
-I am a Postdoctoral Research Ecologist in the [Dept of Botany and Plant Pathology](https://bpp.oregonstate.edu){target="_blank"} at Oregon State University.  
+I am an ORISE Postdoctoral Fellow with the US Forest Service's [Air Resource Management Program](https://www.fs.fed.us/air/){target="_blank"}.  Formerly I was in the [Dept of Botany and Plant Pathology](https://bpp.oregonstate.edu){target="_blank"} at Oregon State University.  
 
-With colleagues and students, I work at the broad intersection of forest ecology, biogeography and high-dimensional statistics.  Our goal is to forecast plant and lichen responses to pressing global changes.  Through distributed experiments, open-source software development and large-scale national forest inventories, we ask:  
+With colleagues, students and federal land managers, I work at the broad intersection of forest ecology, biogeography and high-dimensional statistics.  Our goal is to forecast plant and lichen responses to pressing global changes.  Through distributed experiments, open-source software development and large-scale national forest inventories, we ask:  
 
-_**How will global changes to atmospheric regimes alter the functioning, persistence and distribution of forest vegetation?**_  
-<!-- _**How will global changes to disturbance and climatic regimes alter the distribution, persistence and co-occurrence of species**_?   -->
+_**How will global changes to atmospheric regimes alter the functioning, persistence and distribution of forest vegetation?**_ 
 \  
 
-# Research themes
-******  
+Our path shapes the questions we ask. The CV says something else, but a more accurate chronology is:  
 
-- Human–climate–vegetation interactions  
-- Biogeography  
-- Computational ecology  
-- Lichen and bryophyte ecology  
-\  
+- Gunpowder/Patapsco watershed, Maryland -- born and raised, worked in landscaping/nurseries  
+- north Idaho -- worked landscape construction  
+- central Oregon -- worked in a mill and climbed peaks  
+- Mount Rainier, Washington -- worked for mountain guides and climbed peaks  
+- Mojave/Great Basin, Nevada/California -- desert botany and climbed peaks  
+- western Oregon -- got a botany degree and wrote poems  
+- eastern Oregon -- surveyed plants for the Forest Service  
+- southern Nevada -- got a fire ecology degree and climbed peaks  
+- Washington DC -- did forest research from coffeeshops  
+- western Oregon, Minnesota, Alaska -- got a forest ecology degree  
+- eastern Washington -- did forest research and planted seeds  
 
-# Education
-******  
-
-<p style="padding-left:10%; text-indent:-10%;">
-2017 &nbsp;&nbsp;&nbsp;&nbsp; Ph.D. &nbsp;&nbsp; Botany and Plant Pathology. Oregon State University.  </p>
-
-<p style="padding-left:10%; text-indent:-10%;">
-2013  &nbsp;&nbsp;&nbsp;&nbsp; M.S. &nbsp;&nbsp; Ecology and Evolutionary Biology. Univ of Nevada Las Vegas.  </p>
-
-<p style="padding-left:10%; text-indent:-10%;">
-2011  &nbsp;&nbsp;&nbsp;&nbsp; B.S. &nbsp;&nbsp; Botany and Plant Pathology. Oregon State University.  
-</p>
-\  
-
-# Professional appointments
-******  
-
-<p style="padding-left:10%; text-indent:-10%;">
-2017---*present* &nbsp;&nbsp; Postdoctoral Research Ecologist, Oregon State University \& USDA Forest Service PNW Research Station</p>
-
-<p style="padding-left:10%; text-indent:-10%;">
-2019  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instructor, Oregon State University</p>
-
-<p style="padding-left:10%; text-indent:-10%;">
-2014---2017 &nbsp;&nbsp; Graduate Research Assistant (PhD), Oregon State University</p>
-
-<p style="padding-left:10%; text-indent:-10%;">
-2013---2014 &nbsp;&nbsp; Faculty Research Assistant, Oregon State University</p>
-
-<p style="padding-left:10%; text-indent:-10%;">
-2011---2013 &nbsp;&nbsp; Graduate Research Associate (MSc), University of Nevada, Las Vegas</p>
-
-<p style="padding-left:10%; text-indent:-10%;">
-2010---2014 &nbsp;&nbsp; Biological Science Technician, USDA Forest Service</p>
-
-<p style="padding-left:10%; text-indent:-10%;">
-2007 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Biological Science Technician, US Geological Survey</p>
+Approximately.  
 
 \  
 
 # Find me
 ******
 
-[`r icon::fa("paper-plane", size=2)` Email](smithr2@oregonstate.edu){target="_blank"}
+[`r icon::fa("paper-plane", size=2)` Email](robert.smith3@usda.gov){target="_blank"}
 
 [`r icon::ai("google-scholar", size=2)` Google Scholar ](http://scholar.google.com/citations?user=YkwN1lAAAAAJ){target="_blank"}
 

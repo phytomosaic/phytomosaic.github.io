@@ -9,14 +9,14 @@
 <img src="images/rjs.png" style="border:0; margin-right: 10px; margin-left: 10px" align="right" width="40%" alt="">
 
 <span style='font-size: 1.2em;'>Robert J Smith, PhD</span>  
-Postdoctoral Research Ecologist  
-Dept of Botany and Plant Pathology  
-Oregon State University  
-2082 Cordley Hall  
-Corvallis, OR 97331-2902 USA  
+ORISE Postdoctoral Fellow  
+Air Resource Management Program  
+USDA Forest Service  
+1400 Independence Ave SW  
+Washington, DC 20250 USA  
 \  
 
-[`r icon::fa("paper-plane", size=2)` Email](smithr2@oregonstate.edu){target="_blank"}
+[`r icon::fa("paper-plane", size=2)` Email](robert.smith3@usda.gov){target="_blank"}
 
 [`r icon::ai("google-scholar", size=2)` Google Scholar ](http://scholar.google.com/citations?user=YkwN1lAAAAAJ){target="_blank"}
 
@@ -30,7 +30,7 @@ Corvallis, OR 97331-2902 USA
 # Research themes
 ******  
 
-- Human–climate–vegetation interactions  
+- Human–atmosphere–vegetation interactions  
 - Biogeography  
 - Computational ecology  
 - Lichen and bryophyte ecology  
