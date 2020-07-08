@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -257,6 +256,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -285,6 +285,12 @@ $(document).ready(function () {
 }
 }
 
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
 
 .toc-content {
   padding-left: 30px;
@@ -419,6 +425,7 @@ div.tocify {
 <h1>Peer-Reviewed</h1>
 <hr />
 <ol style="list-style-type: decimal">
+<li><p>Smith, R.J., A.N. Gray, and M.E. Swanson. 2020. Peak plant diversity during early forest development in the western United States. <em>Forest Ecology and Management</em>. Accepted.</p></li>
 <li><p>Smith, R.J., S. Jovan, and B. McCune. 2020. Climatic niche limits and community-level vulnerability of obligate symbioses. <em>Journal of Biogeography</em> 47(2): 382-395. <a href="https://doi.org/10.1111/jbi.13719" target="_blank">doi:10.1111/jbi.13719</a> (with <a href="./images/vuln_equations.pdf">equations</a>)</p></li>
 <li><p>Smith, R.J., and A.N. Gray. 2019. Combining potentially incompatible community datasets when harmonizing forest inventories in subarctic Alaska. <em>Journal of Vegetation Science</em> 30(1): 18–29. <a href="https://doi.org/10.1111/jvs.12694" target="_blank">doi:10.1111/jvs.12694</a></p></li>
 <li><p>Smith, R.J., P.R. Nelson, S. Jovan, P.J. Hanson, and B. McCune. 2018. Novel climates reverse carbon uptake of atmospherically-dependent epiphytes: climatic constraints on the iconic boreal forest lichen <em>Evernia mesomorpha</em>. <em>American Journal of Botany</em> 105: 266–274. <a href="https://doi.org/10.1002/ajb2.1022" target="_blank">doi:10.1002/ajb2.1022</a></p></li>
@@ -454,8 +461,9 @@ div.tocify {
 <h1>Submitted</h1>
 <hr />
 <ol style="list-style-type: decimal">
-<li><p>Smith, R.J., and A.N. Gray. 2019. Why measure Wilderness? Socioecological benefits of monitoring protected areas. <em>Frontiers in Ecology and Environment</em>. In review.</p></li>
-<li><p>Smith, R.J., S. Jovan and S. Will-Wolf. Lack of congruence between terrestrial and epiphytic lichen strata in boreal Alaska. <em>The Lichenologist</em>. In review.</p></li>
+<li><p>Smith, R.J., and A.N. Gray. Why measure Wilderness? Socioecological benefits of monitoring protected areas. <em>Frontiers in Ecology and Environment</em>. In review.</p></li>
+<li><p>Smith, R.J., S. Jovan and S. Will-Wolf. Lack of congruence between terrestrial and epiphytic lichen strata in boreal forests. <em>The Lichenologist</em>. In review.</p></li>
+<li><p>Smith, R.J., S. Jovan, D. Stanton, and S. Will-Wolf. 2020. Epiphytic macrolichen communities indicate climate and air quality in the US Midwest. <em>The Bryologist</em>. In review.</p></li>
 </ol>
 <p> </p>
 </div>
@@ -463,7 +471,9 @@ div.tocify {
 <h1>Invited Presentations</h1>
 <hr />
 <ol style="list-style-type: decimal">
-<li><p>Dimensions of mentoring in international STEM disciplines. Office of International Programs, Global Services, Washington State University. 20 Apr 2019.</p></li>
+<li><p>Bridging scales: forecasting forest dynamics under shifting regimes. School of the Environment, Washington State University. Pullman, WA. 3 March 2020.</p></li>
+<li><p>Forecasting forest dynamics under atmospheric stresses. Environmental Sciences Department, Dickinson College. Carlisle, PA. 19 Feb 2020. <!-- 1. Forecasting forest dynamics under atmospheric stresses. School of Biological Sciences, Washington State University.  Pullman, WA. 22 Jan 2020. --></p></li>
+<li><p>Dimensions of mentoring in international STEM disciplines. Office of International Programs, Global Services, Washington State University. Pullman, WA. 20 Apr 2019.</p></li>
 <li><p><em>Keynote</em>: Conceptual progress in lichen ecology through research coordination networks. American Bryological and Lichenological Society Annual Meeting, Niwot Ridge, Colorado. 14 Aug 2018.</p></li>
 </ol>
 <p> </p>
@@ -472,6 +482,7 @@ div.tocify {
 <h1>Oral Presentations</h1>
 <hr />
 <ol style="list-style-type: decimal">
+<li><p>Applications of critical loads and monitoring data in Wilderness Stewardship Performance. Lead: Peter Mali. National Atmospheric Deposition Program, Spring Meeting, Madison, WI. 11 May 2020.</p></li>
 <li><p>Global biomass of ground-dwelling lichens and mosses. Northwest Scientific Assoc., Lewiston, ID. 27 Mar 2019.</p></li>
 <li><p>Harmonizing forest inventories in interior Alaska: resolving ecological vs sampling differences. International Association for Vegetation Science, Bozeman, MT. 27 Jul 2018.</p></li>
 <li><p>Climatic vulnerability of forest lichen communities in North America. USFS Forest Inventory and Analysis Stakeholder Symposium, Park City, UT. 23 Oct 2017.</p></li>
@@ -552,7 +563,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0

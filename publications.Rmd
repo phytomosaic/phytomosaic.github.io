@@ -5,6 +5,8 @@
 # Peer-Reviewed
 ******  
 
+1.	Smith, R.J., A.N. Gray, and M.E. Swanson. 2020. Peak plant diversity during early forest development in the western United States. *Forest Ecology and Management*. Accepted.
+
 1.	Smith, R.J., S. Jovan, and B. McCune. 2020. Climatic niche limits and community-level vulnerability of obligate symbioses. *Journal of Biogeography* 47(2): 382-395. [doi:10.1111/jbi.13719](https://doi.org/10.1111/jbi.13719){target="_blank"} (with [equations](./images/vuln_equations.pdf))
 
 1.	Smith, R.J., and A.N. Gray. 2019. Combining potentially incompatible community datasets when harmonizing forest inventories in subarctic Alaska. *Journal of Vegetation Science* 30(1): 18–29. [doi:10.1111/jvs.12694](https://doi.org/10.1111/jvs.12694){target="_blank"}
@@ -57,16 +59,23 @@
 # Submitted
 ******  
 
-1.	Smith, R.J., and A.N. Gray. 2019. Why measure Wilderness? Socioecological benefits of monitoring protected areas. *Frontiers in Ecology and Environment*. In review.  
+1.	Smith, R.J., and A.N. Gray. Why measure Wilderness? Socioecological benefits of monitoring protected areas. *Frontiers in Ecology and Environment*. In review.
 
-1.   Smith, R.J., S. Jovan and S. Will-Wolf. Lack of congruence between terrestrial and epiphytic lichen strata in boreal Alaska. *The Lichenologist*. In review.  
+1.   Smith, R.J., S. Jovan and S. Will-Wolf. Lack of congruence between terrestrial and epiphytic lichen strata in boreal forests. *The Lichenologist*. In review.
+
+1.   Smith, R.J., S. Jovan, D. Stanton, and S. Will-Wolf. 2020. Epiphytic macrolichen communities indicate climate and air quality in the US Midwest. *The Bryologist*. In review.
 
 \  
 
 # Invited Presentations
 ******  
 
-1.	Dimensions of mentoring in international STEM disciplines. Office of International Programs, Global Services, Washington State University. 20 Apr 2019.
+1.	Bridging scales: forecasting forest dynamics under shifting regimes. School of the Environment, Washington State University. Pullman, WA. 3 March 2020.
+
+1.	Forecasting forest dynamics under atmospheric stresses. Environmental Sciences Department, Dickinson College. Carlisle, PA. 19 Feb 2020.
+<!-- 1.	Forecasting forest dynamics under atmospheric stresses. School of Biological Sciences, Washington State University.  Pullman, WA. 22 Jan 2020. -->
+
+1.	Dimensions of mentoring in international STEM disciplines. Office of International Programs, Global Services, Washington State University. Pullman, WA. 20 Apr 2019.
 
 1.	*Keynote*: Conceptual progress in lichen ecology through research coordination networks.  American Bryological and Lichenological Society Annual Meeting, Niwot Ridge, Colorado. 14 Aug 2018.
 
@@ -74,6 +83,8 @@
 
 # Oral Presentations
 ******  
+
+1.	Applications of critical loads and monitoring data in Wilderness Stewardship Performance. Lead: Peter Mali. National Atmospheric Deposition Program, Spring Meeting, Madison, WI. 11 May 2020.
 
 1.	Global biomass of ground-dwelling lichens and mosses. Northwest Scientific Assoc., Lewiston, ID. 27 Mar 2019.
 
