@@ -40,6 +40,8 @@ Washington, DC 20250 USA
 # News
 ******  
 
+- [New paper](https://doi.org/10.1016/j.foreco.2020.118410){target="_blank"} in *Forest Ecology and Management* links forest structural development to a general 'motif' of plant diversity --- useful for a silviculture that balances diversity with a spectrum of structural stages across landscapes?  
+
 - Featured as [Early Career Researcher](https://journalofbiogeographynews.org/2020/02/14/ecr-feature-rob-smith/){target="_blank"} at *Journal of Biogeography*'s news site... if you need a laugh.  
 
 - Our [paper](https://doi.org/10.1111/jbi.13719){target="_blank"} on climate vulnerability is published in *Journal of Biogeography*. Source code [here](https://github.com/phytomosaic/vuln){target="_blank"} and equations [here](./images/vuln_equations.pdf).  
