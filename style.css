@@ -9,12 +9,12 @@ h1,h2,h3,h4,h5,h6{
   line-height: 0;
 }
 /* titles should be negated */
-h1.title {
+.title {
   font-size: 0;
   line-height: 0;
 }
 /* small-caps text */
-span.small {
+.small {
   font-variant: small-caps;
 }
 /* unvisited link */

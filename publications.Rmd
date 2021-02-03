@@ -1,17 +1,18 @@
 ---
-    title: "Publications"
+    title-meta: "Publications"
 ---
+\  
 
 # Peer-Reviewed
 ******  
 
 1.   Smith, R.J., A.N. Gray, and M.E. Swanson. 2020. Peak plant diversity during early forest development in the western United States. *Forest Ecology and Management*. [doi:10.1016/j.foreco.2020.118410](https://doi.org/10.1016/j.foreco.2020.118410){target="_blank"}.
 
-1.	Smith, R.J., S. Jovan, and B. McCune. 2020. Climatic niche limits and community-level vulnerability of obligate symbioses. *Journal of Biogeography* 47(2): 382-395. [doi:10.1111/jbi.13719](https://doi.org/10.1111/jbi.13719){target="_blank"} (with [equations](./images/vuln_equations.pdf))
+1.	Smith, R.J., S. Jovan, and B. McCune. 2020. Climatic niche limits and community-level vulnerability of obligate symbioses. *Journal of Biogeography* 47(2): 382–395. [doi:10.1111/jbi.13719](https://doi.org/10.1111/jbi.13719){target="_blank"} (with [equations](./images/vuln_equations.pdf))
 
-1.   Smith, R.J., S. Jovan, D. Stanton, and S. Will-Wolf. 2020. Epiphytic macrolichen communities indicate climate and air quality in the US Midwest. *The Bryologist*. Accepted.
+1.  Smith, R.J., S. Jovan, D. Stanton, and S. Will-Wolf. 2020. Epiphytic macrolichen communities indicate climate and air quality in the US Midwest. *The Bryologist* 123(3): 517–533. [doi:10.1639/0007-2745-123.3.516](https://doi.org/10.1639/0007-2745-123.3.516){target="_blank"}
 
-1.   Smith, R.J., S. Jovan, and S. Will-Wolf. 2020. Lack of congruence between terrestrial and epiphytic lichen strata in boreal Alaska. *The Lichenologist*. Accepted.
+1.  Smith, R.J., S. Jovan, and S. Will-Wolf. 2020. Lack of congruence between terrestrial and epiphytic lichen strata in boreal Alaska. *The Lichenologist*. [doi:10.1017/S0024282920000407](https://doi.org/10.1017/S0024282920000407){target="_blank"}
 
 1.	Smith, R.J., and A.N. Gray. 2019. Combining potentially incompatible community datasets when harmonizing forest inventories in subarctic Alaska. *Journal of Vegetation Science* 30(1): 18–29. [doi:10.1111/jvs.12694](https://doi.org/10.1111/jvs.12694){target="_blank"}
 

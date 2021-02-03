@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title>Teaching</title>
+<title>teaching.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -44,6 +43,15 @@
 </script>
 
 </head>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -90,6 +98,7 @@ h6 {
 }
 </style>
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -106,7 +115,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -255,6 +263,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -296,35 +305,35 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="publications.html">
-    <span class="fa fa-edit"></span>
+    <span class="fas fa-edit"></span>
      
     Publications
   </a>
 </li>
 <li>
   <a href="teaching.html">
-    <span class="fa fa-chalkboard-teacher"></span>
+    <span class="fas fa-chalkboard-teacher"></span>
      
     Teaching
   </a>
 </li>
 <li>
   <a href="research.html">
-    <span class="fa fa-seedling"></span>
+    <span class="fas fa-seedling"></span>
      
     Research
   </a>
 </li>
 <li>
   <a href="software.html">
-    <span class="fa fa-code-branch"></span>
+    <span class="fas fa-code-branch"></span>
      
     Software
   </a>
 </li>
 <li>
   <a href="bio.html">
-    <span class="fa fa-star"></span>
+    <span class="fas fa-star"></span>
      
     Bio
   </a>
@@ -341,7 +350,6 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Teaching</h1>
 
 </div>
 
@@ -376,7 +384,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

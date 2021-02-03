@@ -1,11 +1,12 @@
 ---
-     title: "Bio"
+     title-meta: "Bio"
      output:
        html_document:
          theme: sandstone
          css: style.css
          toc: false
 ---
+\  
 
 I am an ORISE Postdoctoral Fellow with the US Forest Service's [Air Resource Management Program](https://www.fs.fed.us/air/){target="_blank"}.  Formerly I was in the [Dept of Botany and Plant Pathology](https://bpp.oregonstate.edu){target="_blank"} at Oregon State University.  
 
@@ -35,10 +36,10 @@ Approximately.
 # Find me
 ******
 
-[`r icon::fa("paper-plane", size=2)` Email](robert.smith3@usda.gov){target="_blank"}
+[`r icon::fontawesome("paper-plane")` Email](robert.smith3@usda.gov){target="_blank"}
 
-[`r icon::ai("google-scholar", size=2)` Google Scholar ](http://scholar.google.com/citations?user=YkwN1lAAAAAJ){target="_blank"}
+[`r icon::academicons("google-scholar")` Google Scholar ](http://scholar.google.com/citations?user=YkwN1lAAAAAJ){target="_blank"}
 
-[`r icon::ai("orcid", size=2)` ORCID](http://orcid.org/0000-0001-5085-634X){target="_blank"}
+[`r icon::academicons("orcid")` ORCID](http://orcid.org/0000-0001-5085-634X){target="_blank"}
 
-[`r icon::fa("github", size=2)` Github ](https://github.com/phytomosaic/){target="_blank"}
+[`r icon::fontawesome("github")` Github ](https://github.com/phytomosaic/){target="_blank"}

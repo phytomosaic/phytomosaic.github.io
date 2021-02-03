@@ -1,5 +1,5 @@
 ---
-     title: "Rob Smith"
+     title-meta: "Rob Smith"
      output:
        html_document:
          theme: sandstone
@@ -16,13 +16,13 @@ USDA Forest Service
 Washington, DC 20250 USA  
 \  
 
-[`r icon::fa("paper-plane", size=2)` Email](robert.smith3@usda.gov){target="_blank"}
+[`r icon::fontawesome("paper-plane")` Email](robert.smith3@usda.gov){target="_blank"}
 
-[`r icon::ai("google-scholar", size=2)` Google Scholar ](http://scholar.google.com/citations?user=YkwN1lAAAAAJ){target="_blank"}
+[`r icon::academicons("google-scholar")` Google Scholar ](http://scholar.google.com/citations?user=YkwN1lAAAAAJ){target="_blank"}
 
-[`r icon::ai("orcid", size=2)` ORCID](http://orcid.org/0000-0001-5085-634X){target="_blank"}
+[`r icon::academicons("orcid")` ORCID](http://orcid.org/0000-0001-5085-634X){target="_blank"}
 
-[`r icon::fa("github", size=2)` Github ](https://github.com/phytomosaic/){target="_blank"}
+[`r icon::fontawesome("github")` Github ](https://github.com/phytomosaic/){target="_blank"}
 
 \  
 \  
@@ -41,6 +41,8 @@ Washington, DC 20250 USA
 ******  
 
 - [New paper](https://doi.org/10.1016/j.foreco.2020.118410){target="_blank"} in *Forest Ecology and Management* links forest structural development to a general 'motif' of plant diversity --- useful for a silviculture that balances diversity with a landscape spectrum of structural stages?  
+
+<!-- - Highlighted contributor for the [USFS Research Participation Program](https://orise.orau.gov/usfs/profiles/smith.html){target="_blank"}.   -->
 
 - Featured as [Early Career Researcher](https://journalofbiogeographynews.org/2020/02/14/ecr-feature-rob-smith/){target="_blank"} at *Journal of Biogeography*'s news site... if you need a laugh.  
 

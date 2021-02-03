@@ -11,7 +11,7 @@
 
 
 
-<title>Publications</title>
+<title>publications.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -46,6 +46,15 @@
 </script>
 
 </head>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -91,6 +100,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
@@ -371,35 +381,35 @@ div.tocify {
       <ul class="nav navbar-nav">
         <li>
   <a href="publications.html">
-    <span class="fa fa-edit"></span>
+    <span class="fas fa-edit"></span>
      
     Publications
   </a>
 </li>
 <li>
   <a href="teaching.html">
-    <span class="fa fa-chalkboard-teacher"></span>
+    <span class="fas fa-chalkboard-teacher"></span>
      
     Teaching
   </a>
 </li>
 <li>
   <a href="research.html">
-    <span class="fa fa-seedling"></span>
+    <span class="fas fa-seedling"></span>
      
     Research
   </a>
 </li>
 <li>
   <a href="software.html">
-    <span class="fa fa-code-branch"></span>
+    <span class="fas fa-code-branch"></span>
      
     Software
   </a>
 </li>
 <li>
   <a href="bio.html">
-    <span class="fa fa-star"></span>
+    <span class="fas fa-star"></span>
      
     Bio
   </a>
@@ -416,19 +426,19 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Publications</h1>
 
 </div>
 
 
+<p> </p>
 <div id="peer-reviewed" class="section level1">
 <h1>Peer-Reviewed</h1>
 <hr />
 <ol style="list-style-type: decimal">
 <li><p>Smith, R.J., A.N. Gray, and M.E. Swanson. 2020. Peak plant diversity during early forest development in the western United States. <em>Forest Ecology and Management</em>. <a href="https://doi.org/10.1016/j.foreco.2020.118410" target="_blank">doi:10.1016/j.foreco.2020.118410</a>.</p></li>
-<li><p>Smith, R.J., S. Jovan, and B. McCune. 2020. Climatic niche limits and community-level vulnerability of obligate symbioses. <em>Journal of Biogeography</em> 47(2): 382-395. <a href="https://doi.org/10.1111/jbi.13719" target="_blank">doi:10.1111/jbi.13719</a> (with <a href="./images/vuln_equations.pdf">equations</a>)</p></li>
-<li><p>Smith, R.J., S. Jovan, D. Stanton, and S. Will-Wolf. 2020. Epiphytic macrolichen communities indicate climate and air quality in the US Midwest. <em>The Bryologist</em>. Accepted.</p></li>
-<li><p>Smith, R.J., S. Jovan, and S. Will-Wolf. 2020. Lack of congruence between terrestrial and epiphytic lichen strata in boreal Alaska. <em>The Lichenologist</em>. Accepted.</p></li>
+<li><p>Smith, R.J., S. Jovan, and B. McCune. 2020. Climatic niche limits and community-level vulnerability of obligate symbioses. <em>Journal of Biogeography</em> 47(2): 382–395. <a href="https://doi.org/10.1111/jbi.13719" target="_blank">doi:10.1111/jbi.13719</a> (with <a href="./images/vuln_equations.pdf">equations</a>)</p></li>
+<li><p>Smith, R.J., S. Jovan, D. Stanton, and S. Will-Wolf. 2020. Epiphytic macrolichen communities indicate climate and air quality in the US Midwest. <em>The Bryologist</em> 123(3): 517–533. <a href="https://doi.org/10.1639/0007-2745-123.3.516" target="_blank">doi:10.1639/0007-2745-123.3.516</a></p></li>
+<li><p>Smith, R.J., S. Jovan, and S. Will-Wolf. 2020. Lack of congruence between terrestrial and epiphytic lichen strata in boreal Alaska. <em>The Lichenologist</em>. <a href="https://doi.org/10.1017/S0024282920000407" target="_blank">doi:10.1017/S0024282920000407</a></p></li>
 <li><p>Smith, R.J., and A.N. Gray. 2019. Combining potentially incompatible community datasets when harmonizing forest inventories in subarctic Alaska. <em>Journal of Vegetation Science</em> 30(1): 18–29. <a href="https://doi.org/10.1111/jvs.12694" target="_blank">doi:10.1111/jvs.12694</a></p></li>
 <li><p>Smith, R.J., P.R. Nelson, S. Jovan, P.J. Hanson, and B. McCune. 2018. Novel climates reverse carbon uptake of atmospherically-dependent epiphytes: climatic constraints on the iconic boreal forest lichen <em>Evernia mesomorpha</em>. <em>American Journal of Botany</em> 105: 266–274. <a href="https://doi.org/10.1002/ajb2.1022" target="_blank">doi:10.1002/ajb2.1022</a></p></li>
 <li><p>Smith, R.J., S. Jovan, A.N. Gray, and B. McCune. 2017. Sensitivity of carbon stores in boreal forest moss mats: effects of vegetation, topography and climate. <em>Plant and Soil</em> 421(1): 31–42. <a href="https://doi.org/10.1007/s11104-017-3411-x" target="_blank">doi:10.1007/s11104-017-3411-x</a></p></li>
@@ -526,7 +536,7 @@ div.tocify {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

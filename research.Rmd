@@ -1,5 +1,5 @@
 ---
-     title: "Research"
+     title-meta: "Research"
      output:
        html_document:
          theme: sandstone
