@@ -11,6 +11,10 @@
 # Software Development
 ******  
 
+1.  Smith, R.J. 2021. Forest Vulnerability Hotspots Mapper.  https://ecol.shinyapps.io/hotspots/ 
+
+1.   Smith, R.J. and L.H. Geiser. 2021. Wilderness Stewardship Performance Reporting.  https://ecol.shinyapps.io/wildstew/ 
+
 1.   Smith, R.J. 2019. **grlyr**: Interactive App for Ground Layer Estimation. https://ecol.shinyapps.io/grlyr/ 
 
 1.   Smith, R.J. 2019. **vuln**: Niche-based Vulnerability of Species and Communities. R package version 0.0.04-2019-08-06. https://github.com/phytomosaic/vuln 

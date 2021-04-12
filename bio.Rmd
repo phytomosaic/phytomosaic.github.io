@@ -8,35 +8,37 @@
 ---
 \  
 
-I am an ORISE Postdoctoral Fellow with the US Forest Service's [Air Resource Management Program](https://www.fs.fed.us/air/){target="_blank"}.  Formerly I was in the [Dept of Botany and Plant Pathology](https://bpp.oregonstate.edu){target="_blank"} at Oregon State University.  
+# Bio
+******  
 
-With colleagues, students and federal land managers, I work at the broad intersection of forest ecology, biogeography and high-dimensional statistics.  Our goal is to forecast plant and lichen responses to pressing global changes.  Through distributed experiments, open-source software development and large-scale national forest inventories, we ask:  
+Rob Smith is a forest ecologist and ORISE Fellow with the US Forest Service's [Air Resource Management Program](https://www.fs.fed.us/air/index.htm){target="_blank"} in Washington, DC.  He aims to guide forest management by forecasting vegetation responses to pressing global changes, especially where atmospheric stressors and disturbances intersect.  Rob's work lies at the broad intersection of forest ecology, biogeography and high-dimensional statistics.  He contributes to the [National Atmospheric Deposition Program](http://nadp.slh.wisc.edu/){target="_blank"}, an interagency cooperative which tracks atmospheric conditions and their environmental effects.  Previously he was a researcher with the [USFS Forest Inventory and Analysis](https://www.fs.usda.gov/pnw/program/rma){target="_blank"} program in the Pacific Northwest, and he taught courses in the [Dept of Botany and Plant Pathology](https://bpp.oregonstate.edu){target="_blank"} at Oregon State University after earning his PhD there with a focus on detection and prediction of climate signals using lichen bioindicators.  For a decade he worked in construction, mills, landscaping, and mountaineering.  
 
-_**How will global changes to atmospheric regimes alter the functioning, persistence and distribution of forest vegetation?**_ 
 \  
 
-Our path shapes the questions we ask. The CV says something else, but a more accurate chronology is:  
+# Keywords
+******  
 
-- Gunpowder/Patapsco watershed, Maryland -- born and raised, worked in landscaping/nurseries  
-- north Idaho -- worked landscape construction  
-- central Oregon -- worked in a mill and climbed peaks  
-- Mount Rainier, Washington -- worked for mountain guides and climbed peaks  
-- Mojave/Great Basin, Nevada/California -- desert botany and climbed peaks  
-- western Oregon -- got a botany degree and wrote poems  
-- eastern Oregon -- surveyed plants for the Forest Service  
-- southern Nevada -- got a fire ecology degree and climbed peaks  
-- Washington DC -- did forest research from coffeeshops  
-- western Oregon, Minnesota, Alaska -- got a forest ecology degree  
-- eastern Washington -- did forest research and planted seeds  
+Air quality; biogeography; climate effects; climate mitigation; community ecology; disturbances; ecology; forecasting; forestry; lichens; open-source software; plant ecology; statistics; vegetation.  
 
-Approximately.  
+\  
+
+# Affiliation
+******
+
+<span style='font-size: 1.2em;'>Robert J Smith, PhD</span>  
+ORISE Postdoctoral Fellow  
+Air Resource Management Program  
+USDA Forest Service  
+1400 Independence Ave SW  
+Washington, DC 20250 USA  
+[www.rsmithlab.org](https://www.rsmithlab.org/)  
 
 \  
 
 # Find me
 ******
 
-[`r icon::fontawesome("paper-plane")` Email](robert.smith3@usda.gov){target="_blank"}
+[`r icon::fontawesome("paper-plane")` Email](robertsmith3@usda.gov){target="_blank"}
 
 [`r icon::academicons("google-scholar")` Google Scholar ](http://scholar.google.com/citations?user=YkwN1lAAAAAJ){target="_blank"}
 

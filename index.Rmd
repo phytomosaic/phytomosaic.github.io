@@ -16,7 +16,7 @@ USDA Forest Service
 Washington, DC 20250 USA  
 \  
 
-[`r icon::fontawesome("paper-plane")` Email](robert.smith3@usda.gov){target="_blank"}
+[`r icon::fontawesome("paper-plane")` Email](robertsmith3@usda.gov){target="_blank"}
 
 [`r icon::academicons("google-scholar")` Google Scholar ](http://scholar.google.com/citations?user=YkwN1lAAAAAJ){target="_blank"}
 
@@ -48,7 +48,7 @@ Washington, DC 20250 USA
 
 - Our [paper](https://doi.org/10.1111/jbi.13719){target="_blank"} on climate vulnerability is published in *Journal of Biogeography*. Source code [here](https://github.com/phytomosaic/vuln){target="_blank"} and equations [here](./images/vuln_equations.pdf).  
 
-- Joined with the [Stanton lab](https://cbs.umn.edu/contacts/daniel-stanton-0){target="_blank"} and the [Market Science](https://cbs.umn.edu/market-science/about){target="_blank"} outreach team to share the wonders of lichens with all ages at the Minnesota State Fair.  
+- Joined with the [Stanton lab](https://cbs.umn.edu/contacts/daniel-stanton){target="_blank"} and the [Market Science](https://cbs.umn.edu/market-science/about){target="_blank"} outreach team to share the wonders of lichens with all ages at the Minnesota State Fair.  
 
 - Continued our 6th year of long-term lichen monitoring at the [SPRUCE](https://mnspruce.ornl.gov){target="_blank"} whole-ecosystem warming experiment.  
 
