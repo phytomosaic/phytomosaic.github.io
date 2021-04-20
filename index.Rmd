@@ -16,7 +16,7 @@ USDA Forest Service
 Washington, DC 20250 USA  
 \  
 
-[`r icon::fontawesome("paper-plane")` Email](robertsmith3@usda.gov){target="_blank"}
+[`r icon::fontawesome("paper-plane")` Email](robert.smith3@usda.gov){target="_blank"}
 
 [`r icon::academicons("google-scholar")` Google Scholar ](http://scholar.google.com/citations?user=YkwN1lAAAAAJ){target="_blank"}
 
