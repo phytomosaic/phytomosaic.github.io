@@ -6,11 +6,11 @@
 # Peer-Reviewed
 ******  
 
-1.	Smith, R.J., and A.N. Gray. 2021. Strategic monitoring informs wilderness management and socioecological benefits. *Conservation Science and Practice*. [doi:10.1002/csp2.482](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.482){target="_blank"}
+1.	Smith, R.J., and A.N. Gray. 2021. Strategic monitoring informs wilderness management and socioecological benefits. *Conservation Science and Practice* 3(9): e482. [doi:10.1002/csp2.482](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.482){target="_blank"}
 
 1.  Smith, R.J., S. Jovan, and S. Will-Wolf. 2021. Lack of congruence between terrestrial and epiphytic lichen strata in boreal Alaska. *The Lichenologist* 53(1): 149–158.  [doi:10.1017/S0024282920000407](https://doi.org/10.1017/S0024282920000407){target="_blank"}
 
-1.   Smith, R.J., A.N. Gray, and M.E. Swanson. 2020. Peak plant diversity during early forest development in the western United States. *Forest Ecology and Management*. [doi:10.1016/j.foreco.2020.118410](https://doi.org/10.1016/j.foreco.2020.118410){target="_blank"}
+1.   Smith, R.J., A.N. Gray, and M.E. Swanson. 2020. Peak plant diversity during early forest development in the western United States. *Forest Ecology and Management* 475: 118410. [doi:10.1016/j.foreco.2020.118410](https://doi.org/10.1016/j.foreco.2020.118410){target="_blank"}
 
 1.	Smith, R.J., S. Jovan, and B. McCune. 2020. Climatic niche limits and community-level vulnerability of obligate symbioses. *Journal of Biogeography* 47(2): 382–395. [doi:10.1111/jbi.13719](https://doi.org/10.1111/jbi.13719){target="_blank"} (with [equations](./images/vuln_equations.pdf))
 
@@ -66,11 +66,13 @@
 # Forthcoming
 ******  
 
-1. Nevins, L.M., R.J. Smith, and J. Zambrano. 2021. Tree demographic and neighborhood responses to complex regional gradients of the northwestern United States. *Ecology*. In review.
+1. Nevins, L.M., R.J. Smith, and J. Zambrano. 2021. Tree demographic and neighborhood responses to complex regional gradients of the northwestern United States. *Ecology*. In review.  
 
-1.   Geiser, L.H., H.T. Root, R.J. Smith, S. Jovan, L. St. Clair, and K.L. Dillman. 2021. Lichen-based critical loads for atmospheric deposition in US Forests. *Global Change Biology*. In review.
+1.   Geiser, L.H., H.T. Root, R.J. Smith, S. Jovan, L. St. Clair, and K.L. Dillman. 2021. Lichen-based critical loads for atmospheric deposition in US Forests. *Environmental Pollution*. In review.  
 
-1.    Valentin, M., A. Meyer, J. Pengra, R.J. Smith, and D. Stanton. Some don't like it hot: temperature induced mass loss and photobiont death in an iconic boreal forest lichen.  In preparation.
+<!-- 1. Jovan, S., C. Zuidema, M.C. Kondo, R.J. Smith, A. Bidwell, _et al_. 2021. It takes a community: moss as a heavy metals mapping tool in environmental justice. *Science of the Total Environment*. In review. -->
+
+1.    Valentin, M., A. Meyer, J. Pengra, R.J. Smith, and D. Stanton. Climate warming causes C starvation and photobiont degradation in boreal climate sentinels. In preparation.  
 
 \  
 
@@ -92,7 +94,11 @@
 # Contributed Presentations
 ******  
 
-1.	Applications of critical loads and monitoring data in Wilderness Stewardship Performance. Lead: Peter Mali. National Atmospheric Deposition Program, Spring Meeting, Madison, WI. 11 May 2020.
+1.	Inclusivity in the undergraduate experience: practical classroom tactics. Ecology informal series, Washington State University, Pullman, WA. 26 Apr 2021.
+
+1.	Deposition reductions for offsetting climate impacts. USDA Forest Service, Deposition FARM Team Meeting. 9 Sep 2020.
+
+1.	Uncertainty estimation for critical loads of reactive nitrogen. NADP--CLAD: National Atmospheric Deposition Program--Critical Loads of Atmospheric Deposition Science Committee. 14 Jul 2020.
 
 1.	Global biomass of ground-dwelling lichens and mosses. Northwest Scientific Assoc., Lewiston, ID. 27 Mar 2019.
 

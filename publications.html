@@ -11,7 +11,7 @@
 
 
 
-<title>publications.utf8</title>
+<title>publications.knit</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,6 +19,15 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
@@ -57,11 +66,6 @@
     </style>
 
 <style type="text/css">code{white-space: pre;}</style>
-<style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -74,32 +78,6 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
 
 
 <link rel="stylesheet" href="style.css" type="text/css" />
@@ -111,10 +89,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -131,40 +105,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 61px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 66px;
-  margin-top: -66px;
-}
-.section h2 {
-  padding-top: 66px;
-  margin-top: -66px;
-}
-.section h3 {
-  padding-top: 66px;
-  margin-top: -66px;
-}
-.section h4 {
-  padding-top: 66px;
-  margin-top: -66px;
-}
-.section h5 {
-  padding-top: 66px;
-  margin-top: -66px;
-}
-.section h6 {
-  padding-top: 66px;
-  margin-top: -66px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -192,7 +139,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -204,7 +151,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -215,10 +162,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -230,7 +190,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -356,7 +315,7 @@ div.tocify {
 
 
 <!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
+<div class="row">
 <div class="col-xs-12 col-sm-4 col-md-3">
 <div id="TOC" class="tocify">
 </div>
@@ -381,35 +340,35 @@ div.tocify {
       <ul class="nav navbar-nav">
         <li>
   <a href="publications.html">
-    <span class="fas fa-edit"></span>
+    <span class="fa fa-edit"></span>
      
     Publications
   </a>
 </li>
 <li>
   <a href="teaching.html">
-    <span class="fas fa-chalkboard-teacher"></span>
+    <span class="fa fa-chalkboard-teacher"></span>
      
     Teaching
   </a>
 </li>
 <li>
   <a href="research.html">
-    <span class="fas fa-seedling"></span>
+    <span class="fa fa-seedling"></span>
      
     Research
   </a>
 </li>
 <li>
   <a href="software.html">
-    <span class="fas fa-code-branch"></span>
+    <span class="fa fa-code-branch"></span>
      
     Software
   </a>
 </li>
 <li>
   <a href="bio.html">
-    <span class="fas fa-star"></span>
+    <span class="fa fa-star"></span>
      
     Bio
   </a>
@@ -422,7 +381,7 @@ div.tocify {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -435,9 +394,9 @@ div.tocify {
 <h1>Peer-Reviewed</h1>
 <hr />
 <ol style="list-style-type: decimal">
-<li><p>Smith, R.J., and A.N. Gray. 2021. Strategic monitoring informs wilderness management and socioecological benefits. <em>Conservation Science and Practice</em>. <a href="https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.482" target="_blank">doi:10.1002/csp2.482</a></p></li>
+<li><p>Smith, R.J., and A.N. Gray. 2021. Strategic monitoring informs wilderness management and socioecological benefits. <em>Conservation Science and Practice</em> 3(9): e482. <a href="https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.482" target="_blank">doi:10.1002/csp2.482</a></p></li>
 <li><p>Smith, R.J., S. Jovan, and S. Will-Wolf. 2021. Lack of congruence between terrestrial and epiphytic lichen strata in boreal Alaska. <em>The Lichenologist</em> 53(1): 149–158. <a href="https://doi.org/10.1017/S0024282920000407" target="_blank">doi:10.1017/S0024282920000407</a></p></li>
-<li><p>Smith, R.J., A.N. Gray, and M.E. Swanson. 2020. Peak plant diversity during early forest development in the western United States. <em>Forest Ecology and Management</em>. <a href="https://doi.org/10.1016/j.foreco.2020.118410" target="_blank">doi:10.1016/j.foreco.2020.118410</a></p></li>
+<li><p>Smith, R.J., A.N. Gray, and M.E. Swanson. 2020. Peak plant diversity during early forest development in the western United States. <em>Forest Ecology and Management</em> 475: 118410. <a href="https://doi.org/10.1016/j.foreco.2020.118410" target="_blank">doi:10.1016/j.foreco.2020.118410</a></p></li>
 <li><p>Smith, R.J., S. Jovan, and B. McCune. 2020. Climatic niche limits and community-level vulnerability of obligate symbioses. <em>Journal of Biogeography</em> 47(2): 382–395. <a href="https://doi.org/10.1111/jbi.13719" target="_blank">doi:10.1111/jbi.13719</a> (with <a href="./images/vuln_equations.pdf">equations</a>)</p></li>
 <li><p>Smith, R.J., S. Jovan, D. Stanton, and S. Will-Wolf. 2020. Epiphytic macrolichen communities indicate climate and air quality in the US Midwest. <em>The Bryologist</em> 123(3): 517–533. <a href="https://doi.org/10.1639/0007-2745-123.3.516" target="_blank">doi:10.1639/0007-2745-123.3.516</a></p></li>
 <li><p>Smith, R.J., and A.N. Gray. 2019. Combining potentially incompatible community datasets when harmonizing forest inventories in subarctic Alaska. <em>Journal of Vegetation Science</em> 30(1): 18–29. <a href="https://doi.org/10.1111/jvs.12694" target="_blank">doi:10.1111/jvs.12694</a></p></li>
@@ -475,8 +434,11 @@ div.tocify {
 <hr />
 <ol style="list-style-type: decimal">
 <li><p>Nevins, L.M., R.J. Smith, and J. Zambrano. 2021. Tree demographic and neighborhood responses to complex regional gradients of the northwestern United States. <em>Ecology</em>. In review.</p></li>
-<li><p>Geiser, L.H., H.T. Root, R.J. Smith, S. Jovan, L. St. Clair, and K.L. Dillman. 2021. Lichen-based critical loads for atmospheric deposition in US Forests. <em>Global Change Biology</em>. In review.</p></li>
-<li><p>Valentin, M., A. Meyer, J. Pengra, R.J. Smith, and D. Stanton. Some don’t like it hot: temperature induced mass loss and photobiont death in an iconic boreal forest lichen. In preparation.</p></li>
+<li><p>Geiser, L.H., H.T. Root, R.J. Smith, S. Jovan, L. St. Clair, and K.L. Dillman. 2021. Lichen-based critical loads for atmospheric deposition in US Forests. <em>Environmental Pollution</em>. In review.</p></li>
+</ol>
+<!-- 1. Jovan, S., C. Zuidema, M.C. Kondo, R.J. Smith, A. Bidwell, _et al_. 2021. It takes a community: moss as a heavy metals mapping tool in environmental justice. *Science of the Total Environment*. In review. -->
+<ol style="list-style-type: decimal">
+<li>Valentin, M., A. Meyer, J. Pengra, R.J. Smith, and D. Stanton. Climate warming causes C starvation and photobiont degradation in boreal climate sentinels. In preparation.</li>
 </ol>
 <p> </p>
 </div>
@@ -496,7 +458,9 @@ div.tocify {
 <h1>Contributed Presentations</h1>
 <hr />
 <ol style="list-style-type: decimal">
-<li><p>Applications of critical loads and monitoring data in Wilderness Stewardship Performance. Lead: Peter Mali. National Atmospheric Deposition Program, Spring Meeting, Madison, WI. 11 May 2020.</p></li>
+<li><p>Inclusivity in the undergraduate experience: practical classroom tactics. Ecology informal series, Washington State University, Pullman, WA. 26 Apr 2021.</p></li>
+<li><p>Deposition reductions for offsetting climate impacts. USDA Forest Service, Deposition FARM Team Meeting. 9 Sep 2020.</p></li>
+<li><p>Uncertainty estimation for critical loads of reactive nitrogen. NADP–CLAD: National Atmospheric Deposition Program–Critical Loads of Atmospheric Deposition Science Committee. 14 Jul 2020.</p></li>
 <li><p>Global biomass of ground-dwelling lichens and mosses. Northwest Scientific Assoc., Lewiston, ID. 27 Mar 2019.</p></li>
 <li><p>Harmonizing forest inventories in interior Alaska: resolving ecological vs sampling differences. International Association for Vegetation Science, Bozeman, MT. 27 Jul 2018.</p></li>
 <li><p>Climatic vulnerability of forest lichen communities in North America. USFS Forest Inventory and Analysis Stakeholder Symposium, Park City, UT. 23 Oct 2017.</p></li>
@@ -556,7 +520,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
@@ -565,6 +529,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')
