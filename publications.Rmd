@@ -6,7 +6,7 @@
 # Peer-Reviewed
 ******  
 
-1. Geiser, L.H., H.T. Root, R.J. Smith, S. Jovan, L. St. Clair, K.L. Dillman and D. Schwede. 2021. Lichen-based critical loads for deposition of nitrogen and sulfur in US forests. *Environmental Pollution*. In press.
+1. Geiser, L.H., H.T. Root, R.J. Smith, S. Jovan, L. St. Clair, K.L. Dillman and D. Schwede. 2021. Lichen-based critical loads for deposition of nitrogen and sulfur in US forests. *Environmental Pollution* 291: 118187. [doi:10.1016/j.envpol.2021.118187](https://doi.org/10.1016/j.envpol.2021.118187){target="_blank"}
 
 1.	Smith, R.J., and A.N. Gray. 2021. Strategic monitoring informs wilderness management and socioecological benefits. *Conservation Science and Practice* 3(9): e482. [doi:10.1002/csp2.482](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.482){target="_blank"}
 
