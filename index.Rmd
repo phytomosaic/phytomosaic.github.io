@@ -35,10 +35,10 @@ Pullman, WA 99164-1043 USA
 <!-- - Lichen and bryophyte ecology   -->
 <!-- \   -->
 
-
-# News
 ******  
-Began new position as Data Scientist in the [Office of Institutional Research](https://ir.wsu.edu/){target="_blank"} at Washington State University as of March 2022.  
+As of March 2022, Rob began a new position at Washington State University.  
+
+Rob Smith is a data scientist and analyst with Washington State University's [Office of Institutional Research](https://ir.wsu.edu/){target="_blank"}.  His work lies at the broad intersection of higher education and high-dimensional statistics.  Trained as a quantitative ecologist, he previously was a research fellow with US Forest Service's [Air Resource Management](https://www.fs.fed.us/air/index.htm){target="_blank"} and the [Forest Inventory and Analysis](https://www.fs.usda.gov/pnw/program/rma){target="_blank"} programs.  He has taught in the [Dept of Botany and Plant Pathology](https://bpp.oregonstate.edu){target="_blank"} at Oregon State University after earning his PhD there with a focus on detection and prediction of climate signals.  For a decade he worked in construction, mills, landscaping, and mountaineering. 
 
 <!-- - [New paper](https://doi.org/10.1016/j.foreco.2020.118410){target="_blank"} in *Forest Ecology and Management* links forest structural development to a general 'motif' of plant diversity --- useful for a silviculture that balances diversity with a landscape spectrum of structural stages?   -->
 

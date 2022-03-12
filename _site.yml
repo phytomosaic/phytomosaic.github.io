@@ -3,21 +3,6 @@ output_dir: "."
 navbar:
   title: "Rob Smith"
   left:
-    # - text: "Publications"
-    #   icon: fa-edit
-    #   href: publications.html
-    # - text: "Teaching"
-    #   icon: fa-chalkboard-teacher
-    #   href: teaching.html
-    # - text: "Research"
-    #   icon: fa-seedling
-    #   href: research.html
-    # - text: "Software"
-    #   icon: fa-code-branch
-    #   href: software.html
-    - text: "Bio"
-      icon: fa-star
-      href: bio.html
 output:
   html_document:
     theme: sandstone

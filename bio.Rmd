@@ -11,15 +11,14 @@
 # Bio
 ******  
 
-
 Rob Smith is a data scientist and analyst with Washington State University's [Office of Institutional Research](https://ir.wsu.edu/){target="_blank"}.  Rob's work lies at the broad intersection of higher education and high-dimensional statistics.  Trained as a quantitative ecologist, he previously was a research fellow with US Forest Service's [Air Resource Management Program](https://www.fs.fed.us/air/index.htm){target="_blank"} in Washington, DC, and a researcher with the [USFS Forest Inventory and Analysis](https://www.fs.usda.gov/pnw/program/rma){target="_blank"} program in the Pacific Northwest.  He has taught courses in the [Dept of Botany and Plant Pathology](https://bpp.oregonstate.edu){target="_blank"} at Oregon State University after earning his PhD there with a focus on detection and prediction of climate signals using bioindicators.  For a decade he worked in construction, mills, landscaping, and mountaineering.  
 
-\  
+<!-- \   -->
 
-# Keywords
-******  
+<!-- # Keywords -->
+<!-- ******   -->
 
-Air quality; biogeography; climate effects; climate mitigation; community ecology; disturbances; ecology; forecasting; forestry; lichens; open-source software; plant ecology; statistics; vegetation.  
+<!-- Air quality; biogeography; climate effects; climate mitigation; community ecology; disturbances; ecology; forecasting; forestry; lichens; open-source software; plant ecology; statistics; vegetation.   -->
 
 \  
 
