@@ -11,6 +11,10 @@
 # Teaching Experience
 ******  
 
+2022 Winter  
+**Community Structure and Analysis, BOT-570.**  Instructor of record.  4 credits.  Graduate-only, 16 students.  Quantitative methods for the analysis of biotic communities, including community concepts, estimation of community composition parameters, theoretical aspects of multivariate methods of analyzing species-importance data, and overview of multivariate tools; hands-on computer analysis of data sets.  
+\  
+
 2019 Spring  
 **Botany: A Human Concern, BOT-101.**  Instructor of record.  4 credits.  144 students.  6 weekly in-person hours.  Responsible for design and delivery of lecture and lab course.  Introductory botany for non-majors, emphasizing the role of plants in the environment, agriculture and society. Includes molecular approaches to the study of plant function and genetic engineering.  
 \  

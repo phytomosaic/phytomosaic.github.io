@@ -11,7 +11,8 @@
 # Bio
 ******  
 
-Rob Smith is a forest ecologist and ORISE Fellow with the US Forest Service's [Air Resource Management Program](https://www.fs.fed.us/air/index.htm){target="_blank"} in Washington, DC.  He aims to guide forest management by forecasting vegetation responses to pressing global changes, especially where atmospheric stressors and disturbances intersect.  Rob's work lies at the broad intersection of forest ecology, biogeography and high-dimensional statistics.  He contributes to the [National Atmospheric Deposition Program](http://nadp.slh.wisc.edu/){target="_blank"}, an interagency cooperative which tracks atmospheric conditions and their environmental effects.  Previously he was a researcher with the [USFS Forest Inventory and Analysis](https://www.fs.usda.gov/pnw/program/rma){target="_blank"} program in the Pacific Northwest, and he taught courses in the [Dept of Botany and Plant Pathology](https://bpp.oregonstate.edu){target="_blank"} at Oregon State University after earning his PhD there with a focus on detection and prediction of climate signals using lichen bioindicators.  For a decade he worked in construction, mills, landscaping, and mountaineering.  
+
+Rob Smith is a data scientist and analyst with Washington State University's [Office of Institutional Research](https://ir.wsu.edu/){target="_blank"}.  Rob's work lies at the broad intersection of higher education and high-dimensional statistics.  Trained as a quantitative ecologist, he previously was a research fellow with US Forest Service's [Air Resource Management Program](https://www.fs.fed.us/air/index.htm){target="_blank"} in Washington, DC, and a researcher with the [USFS Forest Inventory and Analysis](https://www.fs.usda.gov/pnw/program/rma){target="_blank"} program in the Pacific Northwest.  He has taught courses in the [Dept of Botany and Plant Pathology](https://bpp.oregonstate.edu){target="_blank"} at Oregon State University after earning his PhD there with a focus on detection and prediction of climate signals using bioindicators.  For a decade he worked in construction, mills, landscaping, and mountaineering.  
 
 \  
 
@@ -26,19 +27,16 @@ Air quality; biogeography; climate effects; climate mitigation; community ecolog
 ******
 
 <span style='font-size: 1.2em;'>Robert J Smith, PhD</span>  
-ORISE Postdoctoral Fellow  
-Air Resource Management Program  
-USDA Forest Service  
-1400 Independence Ave SW  
-Washington, DC 20250 USA  
-[www.rsmithlab.org](https://www.rsmithlab.org/)  
+Data Scientist  
+Office of Institutional Research  
+Washington State University  
+Pullman, WA 99164-1043 USA  
 
-\  
 
 # Find me
 ******
 
-[`r icon::fontawesome("paper-plane")` Email](robert.smith3@usda.gov){target="_blank"}
+[`r icon::fontawesome("paper-plane")` Email](mailto:rob.smith@wsu.edu){target="_blank"}  
 
 [`r icon::academicons("google-scholar")` Google Scholar ](http://scholar.google.com/citations?user=YkwN1lAAAAAJ){target="_blank"}
 
