@@ -1,4 +1,5 @@
 ---
+     title: ""
      title-meta: "Bio"
      output:
        html_document:
@@ -35,10 +36,10 @@ Pullman, WA 99164-1043 USA
 # Find me
 ******
 
-[`r icon::fontawesome("paper-plane")` Email](mailto:rob.smith@wsu.edu){target="_blank"}  
+[Email](mailto:rob.smith@wsu.edu){target="_blank"}
 
-[`r icon::academicons("google-scholar")` Google Scholar ](http://scholar.google.com/citations?user=YkwN1lAAAAAJ){target="_blank"}
+[Google Scholar](https://scholar.google.com/citations?user=irFda2YAAAAJ){target="_blank"}
 
-[`r icon::academicons("orcid")` ORCID](http://orcid.org/0000-0001-5085-634X){target="_blank"}
+[ORCID](http://orcid.org/0000-0001-5085-634X){target="_blank"}
 
-[`r icon::fontawesome("github")` Github ](https://github.com/phytomosaic/){target="_blank"}
+[Github](https://github.com/phytomosaic/){target="_blank"}
